@@ -101,12 +101,11 @@ Registration for IE 300
 After the summer practice is
 
 completed, you must register for IE 300
-in the immediate academic term (Fall
-2025-2026).
+in the immediate academic term.
 Summer practice reports are due within
 
 the first 4 weeks of the registered
-academic term (Fall 2025-2026)
+academic term 
 Due date: Oct. 24, 2025.
 
 Steps to follow in IE 300:
@@ -905,13 +904,11 @@ Registration for IE 400
 After the summer practice is completed,
 ¨
 you must register for IE 400 in the
-immediate following academic term (Fall
-2025-2026).
+immediate following academic term.
 Summer practice reports are due within
 ¨
 the first 4 weeks of the registered
-academic term (Fall 2025-2026)
-Due date: Oct. 24, 2025.
+academic term.
 ¨
 Steps to follow in IE 400:
 7
@@ -2966,6 +2963,7 @@ SGK Insurance Application System
 SGK Insurance Applications will be followed via METU OpenCourseWare platform (OCW). The insurance application module in the OCW system is now open. All 1st, 2nd, 3rd, and 4th year students are registered to the “IE300/400 Summer Internship” course by default. Please note the following:
 
 1. The “IE300/400 Summer Internship” OCW course is created only for the practical purpose of collecting the insurance application information of students. This is not a real “course”. Note that when your internship is over, you still need to get registered for the IE300 or IE400 courses in the Fall semester (or summer school if you are planning to).
+If your academic calendar does not conflict with the dates of your internship, you can take the IE300 and IE400 courses in the following term of your internship. For example, if there is enough time for an internship during your winter break, you should take the related internship course in the spring semester. 
 
 2. If you are not planning to do an SP this year, just ignore all the instructions below. You do not have to do anything about the OCW system.
 
