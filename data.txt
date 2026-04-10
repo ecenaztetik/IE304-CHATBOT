@@ -1,0 +1,3128 @@
+
+
+--- START OF SOURCE: ie300_introduction_2025.pdf ---
+
+IE 300 SUMMER PRACTICE
+Introductory Session
+2025-2026
+Summer Practice Committee
+2
+Prof. Dr. Esra Karasakal
+
+Prof. Dr. Cem İyigün
+
+Çiya Aydoğan
+
+Buğra Öztürk
+
+Ömer Turan Şahinaslan
+
+Özgür Ünverdi
+
+Mehmet Sencer Zengin
+
+Contact Info
+3
+Web page: http://sp.ie.metu.edu.tr
+
+Contact address: ie-staj@metu.edu.tr
+
+(includes all committee members)
+
+Prerequisites for IE 300
+4
+IE 102 +
+
+IE 251, IE 265, IE 241, OHS 101 (fall semester
+
+courses) +
+One out of {IE 266, IE252} (spring semester
+
+courses).
+If any one of these prerequisite courses is not
+
+completed with a grade ≥ DD, IE300 summer
+practice cannot be conducted.
+If you are in probation in the Fall semester, you
+
+cannot take the IE300 course even if you
+successfully finished your SP.
+IE 300
+5
+IE 300 is a must course which is non-credit. Your grade should
+
+be S (satisfactory) for graduation.
+It is integral and complementary to the IE curriculum.
+
+You gain your first experience of your professional life to come.
+
+For the first time
+
+you get to know a company with all her aspects
+
+you get involved in the decision problems of a company
+
+you get the chance of observing:
+
+whole supply chain the company belongs to
+◼
+manufacturing processes; sustainability concerns of the company
+◼
+cost accounting issues
+◼
+use of operations research methods
+◼
+use of statistical analysis and how they make use of big data
+◼
+team work, IEs roles and jobs
+◼
+IE 300 – when to conduct
+6
+You will conduct IE 300 summer practice in
+
+Summer 2025
+Available time interval (~3 months):
+
+[June 25 – September 26]
+◼
+If you attend the summer school for some
+
+courses, your summer practice period should
+not overlap with the summer school.
+Minimum practice is 20 workdays (4 weeks)
+
+If you are in graduation status and have
+
+completed all your course work and then you
+can conduct both IE 300 and IE 400 in
+succession in Summer 2025.
+Registration for IE 300
+7
+After the summer practice is
+
+completed, you must register for IE 300
+in the immediate academic term (Fall
+2025-2026).
+Summer practice reports are due within
+
+the first 4 weeks of the registered
+academic term (Fall 2025-2026)
+Due date: Oct. 24, 2025.
+
+Steps to follow in IE 300:
+8
+1. Search for
+3. Apply to the
+alternative companies
+company
+no
+Accepted
+no
+Manufacturing ?
+(required
+yes
+type)?
+4. Apply for the
+Insurance
+yes
+2. Evaluate the
+company 5. Conduct your
+6. Submit your report
+summer practice
+to the SP Committee
+Steps to follow in IE 300:
+9
+1. Search for alternative companies (start as soon as possible)
+Manufacturing firms:
+
+Automotive
+
+Machine parts
+
+Electronics
+
+Furniture
+
+Textiles
+
+Consumer durables (refrigerator, washing machine,..)
+
+…
+
+Batch process industries are also accepted:
+
+◼ Steel
+◼ Paper mills
+◼ Pharmaceutical
+◼ Food and beverages
+◼ ….
+Steps to follow in IE 300:
+10
+1. Search for alternative companies
+Manufacturing firms:
+
+No “continuous process” industries
+
+Cement, concrete
+◼
+Sugar
+◼
+Flour mill
+◼
+No “service industries”
+
+Hospitals
+
+Hotels
+
+Banking
+
+Research organizations
+
+Transportation, cargo carriers
+
+…
+
+Steps to follow in IE 300:
+11
+1. Search for alternative companies
+(cont’d)
+The department will also list some of the firms that
+
+you can apply for summer practice.
+It is your responsibility to check regularly the
+
+updates from the SP web site > SP Opportunities.
+For these SP opportunities:
+
+We will announce them as we get them from the
+
+companies. We follow either of the ways (based on the
+conditions of the company):
+Either we assign you or
+◼
+You contact these firms by yourself and make the
+◼
+arrangement by yourself.
+Steps to follow in IE 300:
+12
+1. Search for alternative companies
+(cont’d)
+Your summer practice is to be conducted totally in
+
+the factory (face-to-face).
+We DO NOT allow for a summer practice totally
+
+«online» or «hybrid» type.
+Steps to follow in IE 300:
+13
+2. Evaluate the company
+Check the IE 300 Manual from
+
+https://sp-ie.metu.edu.tr > Documents/Forms tab
+Check whether you can answer the questions without
+
+much difficulty.
+Also check the company under consideration in
+
+terms of:
+Number of employees? How many engineers, IE’s?
+
+Production capacity?
+
+Information system? ERP or..?
+
+Steps to follow in IE 300:
+14
+2. Evaluate the company (cont’d)
+We do not examine and confirm the suitability of
+
+your SP company in advance.
+Students determine whether their SP company is
+
+appropriate
+Discuss with the SP Committee if you are not sure or
+
+do not feel comfortable about the appropriateness
+of the candidate company for IE 300.
+Steps to follow in IE 300:
+15
+3. Apply to the company
+Some companies request a document (letter) explaining
+
+the aim of the SP, minimum duration of the SP and
+stating that the insurance for the SP will be paid by
+METU. You can find the SP Application Form on the SP
+website (Documents/Forms tab). You need to fill out the
+signed letters with the required information.
+Some companies may request an SP Protocol (sözleşme)
+
+form. If you need one, please visit the SP website. Under
+the Documents/Forms tab, you can find a sample
+protocol. After you fill out the protocol form, you need to
+leave the form to Undergraduate Secretary Office. You
+can pick up the signed form in a week.
+Steps to follow in IE 300:
+16
+4. Apply for the insurance
+When you are accepted for SP by the company and
+
+your decision with your SP company is CERTAIN, then
+apply for the insurance via METU OpenCourseWare
+platform (OCW), https://ocw.metu.edu.tr. Fill out
+the questionnaire under “SGK Insurance
+Application” 2-3 weeks before the beginning of your
+SP.
+Also download a copy of the " Declaration Form for
+
+students with/without family health insurance’’ on
+the SP website (Documents/Forms tab), fill out the
+form, and upload it to OCW.
+Steps to follow in IE 300:
+17
+4. Apply for the insurance
+(cont’d)
+The compulsory insurance : iş kazası ve meslek
+
+hastalığı sigortası (due to the following law):
+Law # 5510: Sosyal Sigortalar ve Genel Sağlık Sigortası
+
+Kanunu
+You can get a copy of your document
+
+"Sigortalı İşe Başlama Belgesi» from e-devlet when it
+is ready before your SP starts
+Please visit SP website —> General Information
+
+Tab for the steps and details of applying to SGK
+insurance using METU OCW.
+Steps to follow in IE 300:
+18
+4. Apply for the insurance
+(cont’d)
+METU provides insuring for all SP students
+
+upon application.
+For compulsory summer practices, insurance is
+
+made for a period of [20 workdays - 3 months].
+Insurance is made for the summer practices abroad
+
+as well.
+The company can also insure you for the
+
+summer practice term, then you are not insured
+by the university, so you do not apply to us to get
+insured.
+Steps to follow in IE 300:
+19
+5. Conduct your summer practice
+Download a copy of the "Evaluation Form and
+
+Employer Survey Form’’ under the
+Documents/Forms tab; they are together in two
+pages («Başarı Belgesi» and «İşveren Anketi»)
+Attach a recent photograph of yours to the first
+
+page.
+The company should fill out these forms at the
+
+end of your summer practice and then the
+company should e-mail to sp-belge@metu.edu.tr.
+Steps to follow in IE 300:
+20
+6. Submit your report
+You are required to submit (upload @odtuclass)
+
+your summer practice report and the questionnaire
+at the beginning of the following semester till the
+announced due date.
+The report is written based on the IE 300 manual.
+
+You should answer all of the questions in the
+
+manual.
+In some questions (e.g. accounting, finance), you
+
+should provide information about the method used at
+least, if you are not provided with sufficient data.
+For each question, you should provide sufficient
+
+explanation and analysis; giving a figure/table only is
+not accepted.
+Steps to follow in IE 300:
+21
+6. Submit your report
+(cont’d)
+Before answering a question, you should read the
+
+explanation in the question, and answer accordingly based
+on the explanation (e.g. Types of layout).
+You can start writing your report during the practice.
+
+You can use "google grammarly" to correct the report before
+
+you submit it.
+You submit the soft copy of your report (pdf file:
+
+docx converted to pdf) at odtuclass IE 300 –
+turnitin assignment, for it to be checked for
+plagiarism (intihal) (similarity must be < 20%).
+For the questionnaire: you will be using METU
+
+Survey upon the information you will get from the
+SP Committee at the beginning of the semester.
+Steps to follow in IE 300:
+22
+6. Submit your report
+(cont’d)
+If you receive a payment during your SP, you need
+
+to fill out the "Paid SP questionnaire" under the
+IE300 course at OCW. Download, print, and sign
+the Paid Summer Practice Form on the SP website
+(Documents/Forms tab). Upload the scanned copy
+of the signed form (in pdf format) under the
+assignment "İşsizlik Fonu Katkısı Bilgi Formu (Paid
+SP Form)" at OCW.
+Upload the bank receipt (in pdf format) showing
+
+that you received payment from the company under
+the assignment at OCW "Stajda ücret ödendiğine
+dair banka dekontu (Bank receipt for paid SPs)".
+Voluntary SP
+23
+It is possible to do a voluntary internship for additional
+
+work experience
+The university takes care of your insurance for voluntary
+
+SP if you have completed your second year.
+For voluntary summer practices, insurance is made for a
+
+period of one month at most for only one organization.
+Follow the same procedure to apply for the insurance.
+
+Candidate Engineering Programs
+24
+Candidate engineering activities during the
+
+semesters do not count for IE300 since SP
+cannot overlap with the teaching period.
+If you continue candidate engineering during
+
+summer and you work for 20 full workdays in a
+row, then you can present it for IE300.
+your questions and comments to:
+25
+ie-staj@metu.edu.tr
+
+First check the SP web page
+
+(https://sp-ie.metu.edu.tr/en)
+SP presentation can be reached on the SP
+
+web page.
+Be aware that ie-staj@metu.edu.tr is NOT a
+
+call center. Please check the SP presentation
+and the web page before e-mailing.
+
+
+--- END OF SOURCE: ie300_introduction_2025.pdf ---
+
+
+
+--- START OF SOURCE: ie300-manual_1.pdf ---
+
+MIDDLE EAST TECHNICAL UNIVERSITY
+INDUSTRIAL ENGINEERING DEPARTMENT
+IE 300
+SUMMER PRACTICE MANUAL
+2009
+The purpose of summer practice is to improve your understanding of the
+industry and experience in industrial engineering. These can best be achieved
+through guided observations followed by a formal reporting. This manual
+provides guidelines for the summer practice and the preparation of the
+practice report of METU Industrial Engineering second year students. First,
+format and style of the practice report is described. The rest of the manual lists
+questions that are expected to be addressed in the report. The questions are
+organized in eight sections. Explanations are given before most of the
+questions. Students should elaborate on their responses to the questions and
+provide supporting discussions. A list of references is also provided.
+TABLE OF CONTENTS
+INSTRUCTIONS ON THE FORMAT AND STYLE OF THE REPORT ................. 3
+EVALUATION OF THE REPORTS ............................................................................ 4
+1. INTRODUCTORY FEATURES ............................................................................... 5
+2. ANALYSIS OF THE MACRO ASPECTS .............................................................. 5
+3. MANAGEMENT INFORMATION SYSTEM ....................................................... 6
+4. AN OVERVIEW OF THE PRODUCTION SYSTEM ........................................... 7
+5. PRODUCTION PLANNING AND CONTROL SYSTEM ................................ 10
+6. QUALITY PLANNING AND CONTROL SYSTEM ......................................... 11
+7. OBSERVATION OF A PROFESSİONAL AT WORK ........................................ 12
+8. ANALYSIS OF A DECISION MAKING PROBLEM ......................................... 13
+9. CONCLUSION ....................................................................................................... 13
+BIBLIOGRAPHY .......................................................................................................... 14
+2
+INSTRUCTIONS ON THE FORMAT AND STYLE OF THE
+REPORT
+The report must be written in English, and printed in ink or typed.
+The main section headings are to be numbered and written in capital letters. The sub-
+titles must be written in lower case letters and underlined. All pages should be given
+page numbers. Figures, drawings, tables, pictures, etc. should be numbered
+appropriately.
+The report should consist of the following sections:
+Table of contents (with corresponding page numbers)
+Introduction (scope of the summer practice; main difficulties faced
+during the practice which affected the course of the work)
+Main body of the report (detailed explanation of the work carried
+out)
+Conclusion (evaluation of the experience gained and feedback on the
+content of summer practice)
+References (list all the material referred to in the report text)
+Appendix (all data, tables, diagrams, drawings, etc. which are not
+immediately relevant to the main text should be included in the
+appendix).
+In writing-up the report, the main sections of the manual and the questions may be
+followed in the given order. However, the content, the main body or a main section of the
+report may be reorganized in subsections defined by the student provided that all
+questions in this guide have been answered.
+When a question is not appropriate for the case on hand or a suitable answer is not
+available, the question can be disregarded. However a clear justification of why the
+question is not answered should be provided. The student can also attempt to modify
+and answer the question so that it is relevant to the practice organization.
+It is advisable to add a glossary to the end of the report for technical terms used.
+Summer practice reports are due within the first two weeks of
+the following academic term.
+3
+EVALUATION OF THE REPORTS
+The grading of the reports will be as follows: There is a total of 200 points
+obtainable from the questions section. You should collect at least 50% of the
+points for each section. Also any point totalling less than 160 or any section
+graded less than 50% of its full score will be considered as 'Incomplete' and
+report will be returned to the student for revision. Any point totalling less
+than 125 will be considered as 'Unsatisfactory' and the summer practice will be
+repeated in a different work place, during the next semester break, the earliest.
+Otherwise the report will be considered as satisfactory. The 200 points will be
+accorded as follows:
+Introductory Features : 10 points
+Analysis of Macro Aspects : 20 points
+Management Information System : 20 points
+An Overview of the Production System : 35 points
+Production Planning and Control System : 35 points
+Quality Planning and Control System : 20 points
+Observation of a Professional at Work : 15 points
+Analysis of a Decision Making Problem : 20 points
+Conclusion : 15 points
+Style and Organization of the Report : 10 points
+You are required to fill out the online questionnaire on the
+You are required to fill out the questionnaire that will be sent to you via
+webes-miteai l wat wthwe b.ieeg.minneintug. oefd tuhe.t rs/e~mspes. teTr.h Oet hqeruweisseti, oynounra siurem msehro uld be
+practice report will be considered as incomplete.
+filled out until the submission date of your summer practice
+report. Otherwise your report will be considered as incomplete.
+4
+1. INTRODUCTORY FEATURES
+1.1 What is the full title of the firm? When was it founded and where is it
+located? (Give the full address).
+1.2 The main shareholders and their shares. Is the firm a joint venture, a
+franchise, a part of a holding company or a part of a multinational group?
+1.3 Specify the sector and typical products the firm manufactures, and its shares
+in the domestic market and (if any) international markets.
+1.4 Who are regarded as the customers of your practice organization (consider
+the end users, retailers, other manufacturers, employees, etc.)? Identify the
+stakeholders, i.e. the groups considered by the organization to have any sort
+of interest in the organization’s activities (such as certifying agencies, labor
+unions, professional societies, government, local community, potential
+customers, competitors and employees).
+1.5 Provide a list of functions performed by the industrial engineers in the
+practice organization
+2. ANALYSIS OF THE MACRO ASPECTS
+2.1 Production system is the heart of every organization as it consists of all activities
+that add value to its output. A production system uses many inputs (e.g. materials,
+equipment, supplies, labor, energy, money, knowledge) some of which are the
+products of other organizations and transforms them into goods/ services. These
+goods/ services may also be used as inputs to other production systems. Besides, a
+production system interacts with its environment (e.g. customers, competitors,
+national economy, government, creditors, suppliers) during its operation.
+Identify major items of input of the production system you have observed.
+Specify where and how they are supplied (e.g., sources, means of
+transportation, volume and frequency of deliveries, usage rates etc.).
+2.2 Any manufacturing organization performs its activities in some physical
+environment consisting of land, buildings, warehouses, roads, shops, garages, docks,
+storages, etc. These are part of the facilities of the organization. In some cases not all
+facilities of a firm are located on the same property and they may be far away from
+each other, even in different cities.
+5
+Identify the major facilities of the manufacturing firm you observed during
+your summer practice on a rough (free hand) sketch. Show a few items that
+flow among them (e.g., painted parts, sheet metal, vehicles to repair, spare
+parts, steam, fabric, design information, cardboard boxes, etc.).
+2.3 When deciding on the location of a manufacturing facility, there are many factors to
+be considered. Some of these are:
+a) distribution needs for the products,
+b) availability or physical characteristics of raw materials,
+c) physical characteristics of the products,
+d) labor availability and quality,
+e) transportation facilities,
+f) proximity to suppliers,
+g) environmental factors,
+h) laws, taxation, incentives, government politics etc.
+i) cost of land and buildings
+Specify the most prevailing factor for selecting the current location of the facility with regard
+to the factors listed above or the like. Support your ideas. (You may use a sketch, a table, a
+graph or a map, if necessary).
+3. MANAGEMENT INFORMATION SYSTEM
+3.1 Every organization has an information system which is designed to meet its
+information requirements. In this system data are recorded, classified, summarized
+and processed to produce information. Management information system should
+support decision making at three different levels:
+a) Strategic level decisions (e.g. plant expansion, determination of product lines,
+mergers, diversification, capital expenditures, etc.).
+b) Tactical level - implementation of plans (e.g. allocation of resources to different
+products, formulation of budgets, funds flow analysis, plant layout decisions,
+personnel problems).
+6
+c) Operational level, day-to-day routine operations (e.g. receiving and shipping
+operations, scheduling, inventory control, quality control and allocating workers
+to jobs).
+Specify the decision makers (individual or group, their positions within the
+organizational structure) and the related subject of decision-making with
+regard to one decision-making activity in each of these decision levels.
+3.2 Computers are widely used in processing data and providing information for
+managerial decision making. They are also employed in organizations to improve
+productivity and provide better utilization of resources. The physical units making
+up a computer system are called hardware.
+Identify the computer systems (computer networks, stand-alone PC’s,
+workstations, main frames etc. -their types and approximate capacities) in
+use and their spread (functions or departments with extensive or low
+computer support in their operations) in your practice organization.
+4. AN OVERVIEW OF THE PRODUCTION SYSTEM
+4.1 A production system takes inputs and transforms them into outputs with some
+inherent value. The transformation process is, in fact, a flow process of input
+materials and information. Material flows through several processes: It first flows
+from supplier to the production system to become raw material inventory. It then
+moves to the production floor, where the material conversion process takes place;
+the material, in the form of work-in-process inventory (WIP), moves through
+different workstations by traversing certain routes on the production floor. Finally,
+it becomes a finished product and stored in finished goods inventory.
+Provide a schematic representation of the material flow of a particular
+product in your practice organization. Note that your diagram should
+include the complete flow from raw materials inventory through finished
+goods inventory with every point of conversion (workstations, stock points)
+being indicated.
+4.2 Manufacturing processes can be categorized as follows:
+Those processes that are characterized by continuous flow as in steel making, sugar
+refining and chemical processing are called continuous processes.
+7
+When items are produced in large lots following an unchanging sequence of
+operations, the process becomes a repetitive process. Standardized product types
+characterize it. Due to unchanging routing of parts, facilities can be arranged as a
+flow shop. The automobile industry is a good example of a flow shop.
+Intermittent processes are those processes in which items are processed in small lots
+to customer specifications. Job shop, batch shop and project shop typify these. A job
+shop produces low-volume highly customized products. Product routing varies
+widely and facilities are arranged on a functional basis. Metal, plastic and
+woodworking industries where non-standard products are processed are examples of
+job shops. Between the extremes of job shops and flows shops is the batch shop. In
+batch shops, product variety is lower; batch sizes are large; and repetitiveness of
+operations is higher compared to job shops. Project shop produces a single,
+customized product such as large turbines, aircraft and ships.
+A manufacturing system may be a combination of the above classes.
+Explain the type of operations in your practice organization with regards to
+any one of the followings: production volume or product variety.
+Describe your reasons in detail.
+4.3 In a production system, the material conversion process takes place on the production
+floor, which is arranged in a certain way to facilitate conversion. Production volume
+and product variety determine the type of arrangement or layout.
+One typical job shop layout is process layout in which all similar equipment and
+operations are grouped together in the same department. For example, all stamping
+is done in the press department. A flow shop, on the other hand, uses a product
+layout. Equipment is arranged so that the product always follows the same routing
+through the layout. For example, assembly line is a typical example for product
+layout (automobile industry, home appliances, and electronics industry). Group
+technology (GT) or cellular layout can be used to develop a hybrid between pure
+process layout and pure product layout. The equipment is arranged into cells, each
+containing the equipment used to process a particular family of parts. A project shop
+uses a fixed-position layout. The product (aircraft, ship) stays in one place while the
+material and equipment are brought to it. Most plants are laid out using a
+combination of these layouts.
+Discuss the type or combinations of the types of layout you have observed in
+your practice organization. Support your points using rough sketches.
+8
+4.4 The flow and movement of materials and components within the plant is essential for
+carrying out successive operations. This is referred to as materials handling.
+Identify some of the materials handling equipment in the plant and state
+where and for what purposes they are used. On a rough free-hand drawing,
+identify a path followed by any one of the materials handling equipment.
+4.5 Productivity implies the enhancement of the production process. Enhancement
+means favorable comparison of the quantity of resources employed (inputs) to the
+quantity of goods and services produced (outputs). Productivity, then, is the ratio of
+the outputs produced for use outside of an organization, divided by the resources
+used. It can be measured in a variety of ways, such as labor, capital, energy, material
+usage and so on.
+Compute / Describe an appropriate productivity measure for your practice
+organization.
+4.6 Based on the determination of standard times for each part/product, unit-
+manufacturing costs can be estimated. Unit-manufacturing cost of a product has to
+be determined to be utilized in various planning and decision making functions.
+There are three basic cost elements: direct material cost, direct labor cost and factory
+overhead cost. Unit-manufacturing cost can be calculated as:
+Unit-manufacturing cost = Unit direct labor cost + Unit direct material cost +
+allocated factory overhead to a unit.
+Are unit-manufacturing costs calculated in your practice organization? If
+yes, explain how they are calculated and provide an example. If no, describe
+how expenses will be accounted for under different cost items for any one of
+the products.
+4.7 Balance sheets and income statements are the basic tools to analyze the firm's
+financial situation. Ratio analysis is often carried out for this purpose.
+Carry out comparative ratio analysis using the balance sheets and income
+statements for the last two years and evaluate the financial standing of
+the organization. (Calculate all the necessary ratios for such analysis), or
+itemize titles for the balance sheet/income statement for the organization.
+9
+5. PRODUCTION PLANNING AND CONTROL SYSTEM
+5.1 Production planning and control is concerned with providing information to: (a)
+efficiently manage the flow of materials, (b) effectively utilize people and equipment,
+(c) coordinate internal activities with those of suppliers, and (d) communicate with
+customers to meet their requirements. Production planning and control can be
+viewed as a system. Its components (like managing the demand, supplying the
+materials, planning the deliveries, adjusting the capacity, etc.) contribute to the
+overall objectives of the organization through the cost, volume, quality and timeliness
+of production activities.
+Management of the types of products (so called product-mix) and their respective
+quantities brings the problem of determining the demand. This may require analysis
+of past data, collecting and processing of separate customer orders, signing contracts
+for supply on an agreed-upon routine basis or conducting a market research
+(especially for a new product).
+State subjects of typical decisions on the types and quantities related to some
+specific products of your practice organization. Who make(s) these
+decisions? How are the decisions recorded and transferred to others in the
+organization? What is the basis for these decisions?
+5.2 When and how to produce is the subject in another set of decision making of
+production planning and control. This set of information conveys the decisions
+related with the allocation of scarce (limited) resources needed for production.
+What resources are controlled as scarce through careful planning in your
+practice organization? Name a few. How are their uses planned? How are
+the plans monitored?
+5.3 Almost every business stocks goods to ensure smooth and efficient running of its
+operations. Inventories of various uses may exist in a firm: (a) stocks accumulated
+against seasonal fluctuations, (b) stocks caused by receiving in large quantities, (c)
+stocks of parts being processed due to movement in batches or processing rate
+differences between successive stages, (d) stocks due to transport delays during
+delivery. Hence inventory exists whenever it is necessary (or sometimes unavoidable)
+to stock for the requirements over a specified time into the future. Decisions
+regarding how much and when to order are typical in any production planning and
+control system as problems in inventory management. Stocking large quantities
+would require higher invested capital but would result in less frequent shortages and
+10
+placement of orders. On the other hand, little or no stocks would decrease the
+invested capital, but would increase the frequency of ordering as well as the risk of
+not satisfying requirements on time. Both extremes are costly.
+State four different items kept in stocks in your practice organization. What
+requirements do they serve, or what causes them? Use a graph to plot the
+inventory on hand (i.e. in the storage or use areas within the facilities of the
+company) versus time for at least one of these items. Do you observe any
+pattern? How can you explain that pattern (or none)? Supply your sources of
+data used in the plot.
+What difficulties do you observe with regard to managing inventories?
+6. QUALITY PLANNING AND CONTROL SYSTEM
+6.1 There is little agreement on what constitutes quality. Most people conceive quality as
+an attribute of a product or service that can be improved. However, quality is not
+only associated with products and services, but also includes processes, environment
+and people. It is an ever-changing state; what is considered quality today may not be
+enough to be considered quality tomorrow. Hence, quality can be defined as a
+dynamic state associated with products, services, processes, environments and
+people, that meets or exceeds expectations.
+The following is just a few other definitions proposed for “quality”:
+ Quality is fitness for use.
+ Quality is conformance to requirements.
+ Quality is the total composite product and service characteristics of
+marketing, engineering, manufacture and maintenance through which the
+product and service in use will meet the expectations of customers.
+ Quality is the totality of features and characteristics of a product or
+service that bear on its ability to satisfy stated or implied needs.
+Hence, a high quality product or service should well meet expectations of all
+involved customers or stakeholders.
+11
+Quality control is exercised at all four stages of a product/service life cycle:
+a) Product/service design stage (innovation, robust design, tolerance design)
+b) Manufacturing/service process design stage (innovation, robust design,
+tolerance design)
+c) Manufacturing/service delivery stage (detecting problems and correcting them,
+compensating for known problems, screening undesirable products.)
+d) Usage stage (warranty and repair).
+Choose a product and explain how the organization defines quality of it. How are customer
+requirements translated into product or service specifications (or characteristics)? Provide
+examples. Also describe the quality control activities that take place throughout the life cycle
+of that product.
+7. OBSERVATION OF A PROFESSIONAL AT WORK
+7.1 In every organization, we encounter professionals with different backgrounds and expertise such as
+product/process designers, marketing managers/specialists, accountants, human resource
+managers/specialists, production planners, purchasing managers, manufacturing supervisors,
+maintenance engineers, quality engineers, and computer specialists. One of the major difficulties lies
+in communication of these people for achievement of common objectives of the organization. On the
+average, 75% of a workday passes by communicating. Effectiveness of communication is essential for
+industrial engineers due to the nature of their work. Hence, industrial engineers are expected to have
+high communication skills.
+Understanding and appreciating the people we communicate with and the characteristics of their work
+is an important requirement of successful communication.
+Identify the most appealing position to you at the firm. Observe a
+professional who has this position, and narrate your observations. You may
+want to mention his/her tasks/responsibilities, how he/she lives a typical
+workday, %breakup of activities, who he/she manages, who he/she reports
+to, and which background and skills he/she needs, and so on.
+12
+8. ANALYSIS OF A DECISION MAKING PROBLEM
+8.1 In every organization, we encounter various decision making problems. Deficiencies occurring in
+production planning may be the consequence of ill-structured forecasting done by the marketing
+department. The low utilization of machinery may be due to high level of absenteeism among workers.
+Deficiencies in production planning and low utilization of machinery are symptoms of the problems.
+Problems are identified by observing such symptoms through a careful analysis of the existing system.
+Observations of symptoms should be validated by objective measurements (e.g., low utilization of
+machinery should be proven by data collected on utilization rates). Possible causes of the symptoms
+should be studied. This analysis can be supported by some of the questions in this document. The
+guidance and proposals of the authorities in the firm may also help in the identification of a decision
+making problem.
+Identify a decision making problem in your organization.
+Formulate the defined problem pointing the following issues.
+ who is the decision maker (owner of the problem)?
+ what is the goal or the objective (direction of and satisfactory amount of
+improvement) of the decision maker?
+ what are the alternative courses of action (to achieve the objectives)?
+ what are the limitations, restrictions and requirements of the system?
+9. CONCLUSION
+9.1 The following questions are prepared to obtain your own assessment of the summer
+practice. You can add as many ideas as you wish besides answering these questions.
+You should not, however, ignore any question. Your answers and additional ideas
+and suggestions will guide the reorganization of this manual in the future.
+Is the procedure you have followed in this summer practice sufficient in its scope, method and general approach? If
+not, identify the drawbacks. State your suggestions for an improved procedure. If you found it sufficient, state
+what you enjoyed most about it.
+If you had another four weeks of time in the same firm, what would you be
+occupied with and why?
+13
+What do you expect to learn in your future training as an industrial engineer
+that will help improve your understanding of production systems? How can
+you further develop your capability of handling problems of these systems?
+Drawing on your experience of this practice, discuss the differences between
+industrial engineering and other engineering disciplines with respect to their
+responsibilities and ways of approaching their duties in the production
+environment.
+If industrial engineers are employed by the firm, what are the areas they
+work in? If no industrial engineer is employed, what activities (if any) do you
+think are suitable for IEs in your practice organization?
+Discuss top management's impression and attitudes towards industrial
+engineering functions and activities.
+9.2 YYoouu aarree rerqeuqiureirded t o ftioll ofuiltl theou qtu etshteio nonnaliirnee thaqut ewsitlilo bnen asieren t toon y otuh ev iaw ee-bmsiateil
+at the beginning of the semester. Otherwise, your summer practice report will
+www.ie.metu.edu.tr/~sp. The questionnaire should be filled out until the
+be considered as incomplete.
+submission date of your summer practice report. Otherwise your report will be
+considered as incomplete.
+BIBLIOGRAPHY
+P E Hicks, “Industrial Engineering and Management: A New Perspective”, 2nd
+Edition, McGraw Hill, 1997
+14
+S Nahmias, “Production and Operations Analysis”, 2nd Edition, IRWIN, 1993
+D Sipper and R L Bulfin, “Production Planning, Control, and Integration”,
+McGraw Hill, 1997
+J B Dilworth, “Production and Operations Management Manufacturing and
+Services”, 5th Edition, McGraw Hill, 1993
+15
+
+
+--- END OF SOURCE: ie300-manual_1.pdf ---
+
+
+
+--- START OF SOURCE: ie400_introduction_2025.pdf ---
+
+IE 400 Summer Practice
+Introductory Session
+2025-2026
+Summer Practice Committee
+2
+Prof. Dr. Cem İyigün
+¨
+Prof. Dr. Esra Karasakal
+¨
+Çiya Aydoğan
+¨
+Buğra Öztürk
+¨
+Ömer Turan Şahinaslan
+¨
+Özgür Ünverdi
+¨
+Mehmet Sencer Zengin
+¨
+Contact Info
+3
+Web page: http://sp-ie.metu.edu.tr
+¨
+Contact address: ie-staj@metu.edu.tr
+¨
+(includes all committee members)
+¤
+Prerequisites for IE 400
+4
+IE 300 +
+¨
+IE 252, IE 323, IE 333 +
+¨
+Any two courses from the set:
+¨
+{IE 304, IE 324, IE 372, IE 368}.
+If any one of the prerequisite courses is
+¨
+not completed with a grade ≥ DD,
+IE400 cannot be conducted.
+IE 400 – when to conduct
+5
+You will conduct IE 400 summer practice in Summer 2025
+¨
+Available time interval (~3 months):
+¤
+[June 25 – September 26]
+n
+If you attend the summer school for some courses, your
+¨
+summer practice period should not overlap with the summer
+school.
+Minimum practice is 20 workdays (4 weeks).
+¨
+This duration can be more if the company request it.
+You can conduct IE 400 during semester break in winter as
+¨
+well, if 20 workdays are available in the break.
+If you are in graduation status and have completed all your
+¨
+course work and then you can conduct both IE 300 and IE 400
+in succession in Summer 2025.
+Registration for IE 400
+6
+After the summer practice is completed,
+¨
+you must register for IE 400 in the
+immediate following academic term (Fall
+2025-2026).
+Summer practice reports are due within
+¨
+the first 4 weeks of the registered
+academic term (Fall 2025-2026)
+Due date: Oct. 24, 2025.
+¨
+Steps to follow in IE 400:
+7
+no
+1. Search for
+alternative companies
+3. Apply to the Accepted
+company ?
+4. Apply yes
+for insurance
+2. Evaluate the
+company
+2. Get approval of the
+5. Conduct your 6. Submit your report
+SP committee if you
+summer practice to the SP Committee
+want to conduct a
+Project based SP
+Steps to follow in IE 400:
+8
+1. Search for alternative companies (start as soon as possible)
+Manufacturing firms:
+¨
+Automotive
+¤
+Machine parts
+¤
+Electronics
+¤
+Furniture
+¤
+Textiles
+¤
+Consumer durables (refrigerator, washing machine,..)
+¤
+…
+¤
+Batch process industries are also accepted:
+¤
+Steel
+n
+Paper mills
+n
+Pharmaceutical
+n
+Food and beverages
+n
+….
+n
+Steps to follow in IE 400:
+9
+1. Search for alternative companies (cont’d)
+Continuous process industries
+¤
+n Cement, concrete
+n Sugar
+n Flour mill
+n …
+Service industries
+¨
+Hospitals
+¤
+Hotels
+¤
+Banking
+¤
+Research organizations (ODTÜ Teknokent,..)
+¤
+Transportation, cargo carriers
+¤
+Public institutions
+¤
+Non-governmental organizations (NGOs)
+¤
+…
+¤
+Steps to follow in IE 400:
+10
+1. Search for alternative companies (cont’d)
+The department will also list some of the firms that
+¨
+you can apply for summer practice.
+It is your responsibility to check regularly the updates
+¨
+from the SP web site à SP Opportunities.
+For these SP opportunities:
+¨
+We will announce as we get them from the companies.
+¤
+We follow either of the ways (based on the conditions
+of the company):
+Either we assign you or
+n
+You contact these firms by yourself and make the
+n
+arrangement by yourself.
+Steps to follow in IE 400:
+11
+1. Search for alternative companies
+(cont’d)
+This summer practice term is to be conducted as
+¨
+follows:
+à manufacturing company: your summer practice is
+¤
+to be totally in the company (plant) "face-to-face"
+à service company: your summer practice can be
+¤
+either "face-to-face" or "hybrid" type (face-to-face +
+online).
+Steps to follow in IE 400:
+12
+2. Evaluate the company
+Check the IE 400 Manual from
+¨
+https://sp-ie.metu.edu.tr >Documents /Forms tab
+Check whether you can answer the questions without
+¤
+much difficulty.
+Also check the company under consideration in
+¨
+terms of:
+Number of employees? How many engineers, IE’s?
+¤
+Production capacity?
+¤
+Information system? ERP or..?
+¤
+Steps to follow in IE 400:
+13
+2. Evaluate the company (cont’d)
+We do not examine and confirm the suitability of your
+¨
+SP company in advance.
+Students determine whether their SP company is
+¨
+appropriate. (Questions in SP Manuel provides a good
+guidance for the appropriateness.)
+Discuss with the SP Committee if you are not sure or do
+¨
+not feel comfortable about the appropriateness of the
+candidate company for IE 400.
+Steps to follow in IE 400:
+14
+3. Apply to the company
+Some companies request a document (letter) explaining
+¨
+the aim of the SP, minimum duration of the SP and
+stating that the insurance for the SP will be paid by
+METU. You can find the SP Application Form on the SP
+website.
+Login with your id and password at
+¤
+http://sp-ie.metu.edu.tr
+Download the form "SP Application Form (Staj Başvuru
+¤
+Belgesi)" under Documents/Forms tab.
+You can apply to more than one company; notice that, for
+¤
+each company you want to apply, you should fill out this
+form.
+Steps to follow in IE 400:
+15
+3. Apply to the company
+Some companies may also request an SP Protocol
+¨
+(sözleşme) form. If you need one, please visit the SP
+website àDocuments/Forms tab. You can find a
+sample protocol.
+After you fill out the protocol form, you need to leave the
+¤
+form to Undergraduate Secretary Office, IE 128.
+You can pick up the signed form in a week.
+¤
+You deliver the signed form "SP Application Form
+¨
+(Staj Başvuru Belgesi)” to the company, and other
+documents they require from you like CV, etc.
+Steps to follow in IE 400:
+16
+4. Apply for the insurance
+When you are accepted for SP by the company and your
+¨
+decision with your SP company is CERTAIN, then
+Apply for SGK insurance via METU OpenCourseWare
+¨
+platform (OCW), https://ocw.metu.edu.tr. Fill out the
+questionnaire under “SGK Insurance Application” 2 weeks
+before the beginning of your SP.
+Also download a copy of the “Declaration Form for students
+¨
+with/without family health insurance’’ on the SP website
+(Documents/Forms tab), fill out the form, and upload it to
+OCW.
+You can get a copy of “Sigortalı İşe Başlama Belgesi” from E-
+¨
+DEVLET when it is ready before your SP starts
+Please visit SP website à General Information tab for the
+¨
+steps and details of applying to SGK insurance using METU
+OCW.
+Steps to follow in IE 400:
+17
+4. Apply for the insurance (cont’d)
+The compulsory insurance : iş kazası ve meslek
+¨
+hastalığı sigortası (due to the following law):
+Law # 5510: Sosyal Sigortalar ve Genel Sağlık Sigortası
+¤
+Kanunu
+METU provides insurance for all SP students upon
+¨
+application.
+For compulsory summer practices, insurance is made for a
+¤
+period of [20 workdays - 3 months].
+For voluntary summer practices, insurance is made for a
+¤
+period of one month at most for only one organization.
+Insurance is made for the summer practices abroad as well.
+¤
+The company can also insure you for the summer
+¨
+practice term, then you are not insured by the
+university, so you do not apply to us to get insured.
+Steps to follow in IE 400:
+18
+5. Conduct your summer practice
+Individual:
+¨
+At least 20 workdays
+¤
+Group of two students:
+¨
+At least 20 workdays
+¤
+Each writes his/her own report
+¤
+Project/problem should be much more involved
+¤
+Notify the SP committee in the first week of practice
+¤
+Project-based:
+¨
+At least 6 weeks
+¤
+Two-page proposal should be approved by the SP
+¤
+Committee before SP starts.
+Content and Format is different (see the manual)
+¤
+Steps to follow in IE 400:
+19
+5. Conduct your summer practice
+Download a copy of the "Evaluation Form and
+¨
+Employer Survey Form’’ under the tab
+Documents/Forms; they are together in two
+pages (“Başarı Belgesi” and “İşveren Anketi”)
+Attach a recent photograph of yours to the first
+¨
+page.
+The company should fill out these forms at the
+¨
+end of your summer practice and then the
+company should e-mail to sp-belge@metu.edu.tr
+Steps to follow in IE 400:
+20
+6. Conduct your summer practice
+(cont’d)
+You are required to search for a "Systems Design
+¨
+Project" during your summer practice.
+Summer practice is a good opportunity to find SD
+¨
+projects.
+Make your practice effective by looking for
+¨
+interesting problems; ask the engineers about
+potential challenging problems for the SD project.
+Once you identify an interesting and challenging
+¨
+problem, check that with the SD committee (not with
+the SP committee).
+Steps to follow in IE 400:
+21
+6. Submit your report
+You are required to submit (upload @odtuclass)
+¨
+your summer practice report and the questionnaire
+at the beginning of the following semester till the
+announced due date.
+The report consists of two sections: "Questions" and
+¨
+"Problem/Project" sections that are graded
+separately, and grade S is required in both parts to
+pass IE 400.
+Steps to follow in IE 400:
+22
+6. Submit your report
+(cont’d)
+The report is written based on the IE 400 manuals.
+¨
+IE 400 manuals are of two types: (i)manufacturing manual and
+¤
+(ii)service manual.
+In some questions (e.g. accounting, finance), you should provide
+¤
+information about the method used at least, if you are not
+provided with sufficient data.
+For each question, you should provide sufficient explanation and
+¤
+analysis; giving a figure/table only is not accepted.
+Before answering a question, you should read the
+¤
+explanation in the question, and answer accordingly based
+on the explanation (e.g. Types of layout).
+You can start writing your report during the practice.
+¤
+You can use "google grammarly" to correct the report before
+¤
+you submit it.
+Steps to follow in IE 400:
+23
+6. Submit your report
+(cont’d)
+You submit the soft copy of your report (pdf
+¨
+file: docx converted to pdf) @ odtuclass IE 400
+– turnitin assignment, for it to be checked for
+plagiarism (intihal) (similarity must be < 20%).
+Your report is also checked whether it is AI
+¨
+generated or not.
+For the questionnaire: you will be using METU
+¨
+Survey upon the information you will get from
+the SP Committee at the beginning of the
+semester.
+Steps to follow in IE 400:
+24
+6. Submit your report
+(cont’d)
+If you receive a payment during your SP, you need
+¨
+to
+Fill out the "Paid SP questionnaire" under the IE400
+¤
+course at OCW.
+Download, print, and sign the Paid SP Form (İşsizlik
+¤
+Fonu Katkısı Bilgi Formu) on the SP website
+(Documents/Forms tab).
+Fill out and scan the copy of the signed form (in pdf
+¤
+format) under the assignment " (Paid SP Form)" at
+OCW.
+Upload Paid SP Form with the bank receipt (in pdf
+¤
+format) showing that you received payment from the
+company under the assignment at OCW “İşsizlik Fonu
+Katkısı Bilgi Formu” as a Zip file.
+Voluntary SP
+25
+It is possible to do a voluntary internship for additional
+¨
+work experience
+The university takes care of your insurance for
+¨
+voluntary SP after you have completed your second
+year.
+For voluntary summer practices, insurance is made for
+¨
+a period of one month at most for only one organization.
+Follow the same procedure to apply for the insurance.
+¨
+your questions and comments to:
+26
+ie-staj@metu.edu.tr
+¨
+First check the sp web page.
+¨
+SP slide set can be reached on sp web
+¨
+page.
+Be aware that ie-staj@metu.edu.tr is NOT
+¨
+a call center. Please check the slide set and
+the web page before e-mailing.
+
+
+--- END OF SOURCE: ie400_introduction_2025.pdf ---
+
+
+
+--- START OF SOURCE: ie400-service_manual_1.pdf ---
+
+MIDDLE EAST TECHNICAL UNIVERSITY
+INDUSTRIAL ENGINEERING DEPARTMENT
+IE 400
+SUMMER PRACTICE MANUAL
+(for Service Systems)
+2011
+The purpose of summer practice is to improve your understanding of the industry
+and experience in industrial engineering. These can best be achieved through
+guided observations followed by a formal reporting. This manual provides
+guidelines for the summer practice and for preparation of the practice report of
+METU Industrial Engineering third year students. First, format and style of the
+practice report is described. The rest of the manual lists questions to be addressed
+in the report. The questions are organized in eight sections. Explanations are
+given before most of the questions (The explanations are based on the references
+listed in Bibliography at the end of the manual). Students should elaborate on their
+responses to the questions and provide supporting discussions. In a separate
+section students should also define and formulate an industrial engineering
+problem, or report exclusively on a project they participated in throughout their
+summer practices. The Appendix at the end of this manual provides some clues
+on how these might be done.
+TABLE OF CONTENTS
+INSTRUCTIONS ON THE FORMAT AND STYLE OF THE REPORT ......... 2
+EVALUATION OF THE REPORTS ................................................................ 4
+1. INTRODUCTORY FEATURES ................................................................. 6
+2. ANALYSIS OF THE MACRO ASPECTS ................................................... 6
+3. AN OVERVIEW OF THE SERVICE SYSTEM ......................................... 11
+4 PLANNING AND CONTROL SYSTEM ................................................... 15
+5. QUALITY PLANNING AND CONTROL SYSTEM ................................. 18
+6. MANAGEMENT INFORMATION SYSTEM ........................................... 20
+7. WORK STUDY .......................................................................................... 21
+8. CONCLUSION ........................................................................................... 22
+APPENDIX A ................................................................................................ 24
+APPENDIX B ................................................................................................. 27
+BIBLIOGRAPHY ........................................................................................... 29
+INSTRUCTIONS ON THE FORMAT AND STYLE OF THE REPORT
+The report must be written in English, with font style Times New Roman, font
+size: 12 and 1,5 line spacing. There is a report cover that should be used which is
+available at summer practice website.
+2
+The main section headings are to be numbered and written in capital letters. The
+sub-titles must be written in lower case letters and underlined. All pages should
+be given page numbers. Figures, drawings, tables, pictures, etc. should be
+numbered appropriately.
+The report should consist of the following sections:
+Table of contents (with corresponding page numbers)
+Introduction (scope of the summer practice; main difficulties faced during
+the practice which affected the course of the work)
+Main body of the report (detailed explanation of the work carried out
+including sections on an IE problem or contributed project)
+Conclusion (evaluation of the experience gained and feedback on the content
+of summer practice)
+References (list all the material referred to in the report text)
+Appendix (all data, tables, diagrams, drawings, etc. which are not
+immediately relevant to the main text should be included in the appendix).
+In writing up the report, the main sections of the manual and the questions may be
+followed in the given order. However, the content, the main body or a main
+section of the report may be reorganized in subsections defined by the student
+provided that all questions in this guide have been answered.
+When a question is not appropriate for the case on hand or a suitable answer is not
+available, the question can be disregarded. However a clear justification of why
+the question is not answered should be provided. The student can also attempt to
+modify and then answer the question so that it is relevant to the practice
+organization.
+It is advisable to add a glossary to the end of the report for technical terms used
+including the company specific jargon.
+The summer practice reports are due within the first two weeks of
+the following academic term.
+3
+EVALUATION OF THE REPORTS
+The grading of the reports is as follows: The Questions section is 200 points in
+total. Problem (or participated project) section is 100 points. Students must pass
+separately on both counts. For the Questions section any grade between 125 and
+160 points or any grade less than 50% of the full score of a section will be
+considered as 'Incomplete' and the report will be returned to the student for
+revision. Grades less than 125 will be considered as 'Unsatisfactory' and the
+summer practice will be repeated in a different work place the following year. For
+the Problem (or participated project) section, any grade between 40 and 65 points
+will be considered as 'Incomplete' and the report will be returned to the student
+for the revision of this section. Grades less than 40 for the Problem (or
+participated project) section will be considered as 'Unsatisfactory' and the summer
+practice will be repeated in a different work place the following year.
+The 200 points will be accorded as follows:
+Introductory Features : 10 points
+Analysis of the Macro Aspects : 20 points
+An Overview of the Service System : 35 points
+Planning and Control System : 50 points
+Quality Planning and Control System : 20 points
+Management Information System : 20 points
+Work Study : 20 points
+Conclusion : 15 points
+Style and Organization of the Report : 10 points
+You are required to fill out the online questionnaire on the website
+You are required to fill out the questionnaire that will be sent to you via e-mail
+www.ie.metu.edu.tr/~sp. The questionnaire should be filled out until the
+at the beginning of the semester. Otherwise, your summer practice report will
+submission date of your summer practice report. Otherwise your report will be
+be considered as incomplete.
+considered as incomplete.
+4
+PROBLEM / PARTICIPATED PROJECT SECTION
+The content of the problem/participated project section will be evaluated on the
+basis of the following:
+•
+Problem/Project context (relevance to industrial engineering and
+significance for the practice organization)
+•
+Technical content of the work reported on
+•
+Style and organization of the section (language, presentation order, clarity)
+PROJECT-TYPE SUMMER PRACTICE REPORT
+If the student performs the summer practice for at least 6 weeks and takes part in
+a project, an independent report describing the project can be submitted as the
+summer practice report. It is required that a project proposal is submitted to the
+committee within the first week of the practice to check the suitability of the
+project. The proposal should be approved by the supervisor at the firm.
+A project-type summer practice report must include the following sections :
+Introduction : 5 points
+(cid:1)
+Description of the company
+and scope of the project
+Literature Review : 10 points
+Problem Definition : 30 points
+(cid:1)
+See Identification and Definition
+of a Problem (in Appendix A).
+Data Gathering and Analysis : 10 points
+Solution Approaches : 20 points
+Results : 15 points
+Conclusion : 10 points
+5
+1. INTRODUCTORY FEATURES
+1.1 What is the full title of the firm? When was it founded and where is it
+located? (Give the full mailing address)
+1.2 What is the type of ownership of the firm? State the main shareholders and
+their shares. Is the firm a partnership, a joint venture, a franchise, a part of a
+holding company or a part of a multinational group?
+1.3 Specify the sector and typical services the firm provides to its customers
+Include a few samplers of its advertising brochures or pamphlets or
+catalogue pages in your appendices to illustrate typical services, if available.
+What are the firm’s shares in the domestic market and (if any) in the
+international markets?
+1.4 Who are regarded as the customers of your practice organization (consider
+the end users, retailers, manufacturers, etc.)?
+Identify the stakeholders, i.e. the groups considered by the organization to
+have any sort of interest in the organization’s activities (such as certifying
+agencies, labor unions, professional societies, government, local community,
+potential customers, competitors and employees).
+1.5 Provide a list of functions performed by the industrial engineers in the
+practice organization.
+2. ANALYSIS OF THE MACRO ASPECTS
+2.1 A productive system is the heart of every organization. It consists of all the activities
+that add value in the conversion of inputs to outputs. A productive system uses
+many types of resources (e.g. materials, equipment, supplies, labor, energy, money,
+information) some of which are the products of other organizations and transforms
+them into goods or services as outputs. Service systems are regarded as intangible
+output conversion systems while manufacturing systems are tangible output
+conversion systems. However, there are cases where the productive system is a
+combination of both. For example a retail store is generally considered to be a service
+system, but its output consists of tangible items sold and the intangible utility of
+offering an assortment of items in one location. In many services, the form of the
+resource does not change during the conversion process. For example real estate
+services usually accept property as the owner supplies it to sell.
+6
+In contrast to manufacturing, in service system one must distinguish “resources”
+and “inputs”. For services, inputs are the customers, which arrive with unique
+demands on service system, while resources are facilitating goods, labor, capital, etc.
+A service system must interact with the customers in order to function. In a self-
+service system a customer is regarded beyond an input, as a co-producer. The
+characteristics of the output also differ in a service system. Outputs may fall into one
+of the three categories: (i) consumed simultaneously with its production (e.g. hair
+cutting, medical treatment), (ii) in the form of information or energy packaged in a
+storage device to be used later (e.g. book), and (iii) a supporting activity (e..g, interior
+decorating, transportation).
+The outputs of one productive system may be used as resources to other productive
+systems. Besides, a productive system interacts with its environment (e.g.,
+customers, competitors, national economy, government, technology, creditors,
+suppliers) during its operation. An overall view of any productive system (whether
+it manufactures goods or provides services), can be stated by taking the inner
+working of the system as a black box. This requires identifying resources and inputs
+into and outputs from the system.
+Study the productive system of your practice organization taking an overall
+view. Sketch the system as a black box identifying its resources, inputs and
+outputs. Discuss the characteristics of the inputs, resources and the outputs.
+Does the firm provide services only for the domestic market? Are there any
+constraints (or regulations) that prevent the firm from competing with
+similar services in the foreign market?
+Does the firm import raw materials, intermediate goods or any of its
+resources (in your black box diagram)? If so, list the countries from which
+imports arrive.
+What are the standards and certificates (such as ISO, TSE, EN, EC, etc.) the
+firm conforms to with regard to its activities? Describe briefly and exemplify
+any limitations or norms imposed by these standards.
+2.2. In a service organization the product is the “service process”. In general there does
+not exist a clear cut differentiation between a “service” product and a
+“manufacturing” product, rather a product is a bundle of tangible and intangible
+components. A product may be positioned in a continuous spectrum of tangible and
+intangible outputs as in Figure 1. For example, a service such as legal advising may
+7
+have no tangible component, while the services in a restaurant or a gas station
+combines an intangible component with a physical component.
+Figure 1. Spectrum of products by G.L.Shostack (1977), “Breaking free from product
+marketing”, Journal of Marketing, pp. 73-80.
+Furthermore, a “service package” is characterized by the following features:
+1. Supporting facility: The physical resources that supports the service (e.g., an
+airplane, a hospital).
+2. Facilitating goods: The material purchased or consumed by the buyer or items
+provided by the customer (e.g. replacement auto parts, medical supplies).
+3. Explicit services: The tangible benefits obtained (e.g. no-delay service of an
+airline).
+4. Implicit services: Psychological, intangible benefits (express check-out option
+at a retail store).
+Describe the tangible and intangible components for the service product
+provided by your practice company. Evaluate the service product based on
+the four features stated above.
+2.3 Every organization has a reason for existing and identifies what business it is in.
+This is its mission. For example, an organization operating a five-star hotel
+accommodation might have the mission of supplying premium quality service with
+an elite image. Vision, on the other hand, is the ability to imagine a different and
+better situation and ways to achieve it. An airline company, for instance, may
+imagine itself to be among the top three in the world for frequent business travellers.
+State the mission of your practice organization. Are there differences in
+missions regarding different services offered by the firm? What visions are
+there with regard to the services and processes performed in your practice
+organization?
+8
+2.4 When deciding on the location of a facility, there are many factors to be considered.
+a) Customers: Some customers may prefer a certain location, if it is convenient to get
+service. Service providers such as retail stores, banks, theaters, fast-food restaurants
+must be closely located to potential customers. However, a discount-store is possibly
+located outside the city center, since convenience is not the service it claims to
+provide.
+b) Cost: Many firms such as outlets, wholesalers find that operating cost is their
+dominant factor.
+c) Competitors: Some businesses prefer to locate near their competitors to observe,
+share resources, and draw customers from a distance, e.g., shops in malls, fast-food
+restaurants. On the other hand, some businesses may prefer to build a barrier to
+prevent their competitors to enter the market. For example, multiple locations, and
+dominant presence may serve as a barrier to competition. Holding prime locations
+before the market has developed can keep the competitors from gaining access to the
+desirable locations.
+d) Demand management: Firms may prefer certain locations if it helps them to
+control the quantity, quality and timing of the demand. For example a luxury
+store may prefer to locate at certain neighborhoods rather than at malls. A
+pharmacy may prefer to locate near a hospital.
+e) Availability or physical characteristics of resources
+f) Characteristics of the services provided
+g) Labor availability and quality
+h) Transportation needs, traffic, accessibility and parking
+i) Environmental factors
+j) Laws, taxation, incentives, government politics etc.
+Specify the most prevailing factor for selecting the current location(s) of the
+firm with regard to the factors listed above or the like. Support your ideas
+with quantitative or qualitative observations. (You may use a sketch, a table,
+a graph or a map, if necessary).
+9
+YOU ARE REQUIRED TO STUDY AT LEAST ONE OF THE QUESTIONS
+BELOW: 2.5 OR 2.6 OR 2.7 (a and b).
+2.5 The degree of labor-intensity, defined as the ratio of labor cost to capital cost, is a
+characteristic of the service process. Capital-intensive service providers (such as
+airlines, trucking, hotels, hospitals) should plan for capital investments, should
+monitor technological advances, and schedule demand to maintain utilization of the
+equipment. Labor-intensive businesses (such as schools, retailing, architects,
+consultancy) should plan for investment on the human capital such as recruitment,
+training the personnel, or scheduling the workforce.
+If your practice firm is operating in a capital-intensive service business does
+the top management have plans and proposals for capital investment? If so,
+state what these investment plans are. If not, explain why top management
+is not currently considering such plans. What evaluation methods and
+criteria are (or should be) used to select among several alternative investment
+proposals? Is there a procedure to take into account the effects of inflation in
+considering future investments? Provide an example as to how investment
+alternatives were evaluated in the past. If such a procedure is not used,
+propose and justify a selection procedure.
+If the firm is operating in a labor-intensive business, describe how the
+recruitments are planned and based on which criteria the recruitments are
+done. Is there a training program for the personnel?
+2.6. Technology covers all the knowledge (principles, procedures, reasoning etc.) and
+means (equipment, tools, components) of producing desirable outcomes from various
+inputs under given conditions. Whether labor-intensive or capital-intensive, service
+firms invest in new technology to improve or to entirely change the process.
+Technology may be applied at four different points in the service process: (i)
+Processing the customer (e.g. medical), (ii) Processing the customer’s equipment or
+material (e.g. money), (iii) Processing information, and (iv) Creating new services.
+How did the firm obtain its know-how and/or technologies? Have there been
+any improvements, upgrades or renewals in major procedures, processes and
+technologies? Does the firm use any licensed trademarks, patents,
+technological know-how, titles, etc.? Describe briefly and exemplify any
+limitations imposed by the providers of technology or providers of registered
+trademarks.
+10
+2.7.a.Services can be redefined through innovations. Service innovations may not get as
+much attention as manufacturing innovations, because most of them depend on
+social innovations, i.e., innovations that create new types of social behavior. Driving
+forces that provide a basis for innovation have both internal and external
+components. For example, Sony walkman combines technology innovation (an
+internal driver) with new lifestyles (an external driver), ATM combines client
+participation (an internal driver) with need for efficiency (an external driver).
+How are innovations for new services/processes being done? Is there a unit
+or activity involved in research and development (R&D) for
+services/processes in the firm? If so, describe its status regarding its human
+resources, machinery/equipment, library and budget.
+b. The search for development, adaptation and implementation of technologies is mostly
+taken as projects in organizations. A project could be defined as a series of related
+jobs usually directed toward some major outcome, requiring a significant period of
+time to perform and it often consists of capital investments and/or activating changes
+in organizational procedures through various stages. Project management can be
+defined as planning, directing and controlling the resources of people, equipment,
+material and money to meet the technical, cost and time constraints of the project.
+PERT/CPM oriented techniques are frequently used for project management.
+How is project management exercised with respect to capital investments or
+technology adoptions?
+3. AN OVERVIEW OF THE SERVICE SYSTEM
+3.1 A productive system takes inputs and transforms them into outputs. The
+transformation process is, in fact, a flow process of input materials (i.e. resources)
+and information. A service blueprint describes a service system. It is a flowchart of
+all transactions that form the service delivery process. A flowchart consists of
+components such as processing of information, interaction with the client or decision
+points.
+For some service systems it is possible to differentiate the front office, where
+customers obtain tangible evidence of service, from the back-office, which is out of
+customer view. In Figure 2, the service blueprint for a stylized service process is
+shown. In the figure, the “line of visibility” separates the front-office from the back-
+office.
+11
+Figure 2.
+(G.L.Shostack (1984), "Designing Services that Deliver", Harvard Business Review, Jan-Feb, pp. 134-139.)
+Provide a service blueprint of a part of the service process in your practice
+company.
+3.2 In a productive system, productivity can be defined as the ratio of outputs to inputs.
+However in systems where the inputs and outputs are various and intangible it is
+not meaningful to take that ratio as a productivity measure. Think about a
+hairdresser, to evaluate operational efficiency, number of customers serviced per hour
+might be a possible measure. However, each customer would have a different resource
+requirement and the service provided might differ in terms of time and value.
+Measures such as profitability or return on investment may not be good indicators
+for operational efficiency.
+How is the productivity of a service unit is defined and measured in your
+practice organization? What other measures can you think about?
+3.3 Service processes can be classified based on (i) Divergence (standardized versus
+customized service) (ii) Customer contact (iii) Nature of the service (continuous
+delivery versus discrete transactions) and (iv) Labor-intensity (labor- vs equipment-
+intensive).
+Services with low degree of labor-intensity and low degree of customization are
+named service factories (airlines, hotels), services with low labor intensity but high
+customization are named service shops. The analog of service shop in a
+manufacturing system is job shop, and an example for service shop is auto-repair.
+12
+Services with high labor intensity and low customization are named mass services.
+The analog in a manufacturing system is flowshop, and examples are retailing,
+education, cafeteria, university registration. Services with high labor intensity and
+high customization are called professional services. The analog in a manufacturing
+environment is project shop and examples are consultancy (e.g. lawyers, architects),
+software development, or preparing for a banquet.
+Services might be continuously delivered (police or fire protection, insurance) or
+discretely transacted (mail service, movie theater). The analog in a manufacturing
+system is continuous processes (such as steel, cement, sugar) versus discrete-part or
+assembly manufacturing (such as automotive).
+Usually one would expect a highly customized service to require high customer
+contact. However, there are some service types that might be customized but do not
+require any customer contact (auto-repair), or that are standardized but require
+direct customer contact (giving a lecture, withdrawing cash from ATM).
+Explain the type (combination of types) of services in your practice
+organization.
+3.4 The types of layouts in a service system can be as follows:
+In fixed-position layout, the customer or item stays in one place while the material
+and equipment are brought to that place. Examples are a house to be decorated, a roof
+to be repaired, or a surgery operation. Sometimes the nature of the equipment does
+not allow for mobility, for example heavy, expensive hospital equipment for kidney
+dialysis requires the patients to a fixed location. Another type of layout is process
+layout where the equipment with similar functionality are grouped at one place.
+Examples are hospitals, beauty parlors. Retail stores group all similar products such
+as hardware, sporting goods, and photographic equipment in separate departments
+for ease of supervision and access by customer. In a product layout the number of
+services provided is limited. The services are sequenced so that a smooth flow of the
+customers through the stations is maintained, and bottlenecks can be avoided by
+balancing the time required to receive each piece of service. An example is the student
+cafeteria where several food stations and a cashier form the sequence of services.
+Fixed-position layout, process and product layouts exist in manufacturing systems
+as well. Several other layout types that are specific to service systems are office
+layout, retail stores and warehouses.
+13
+Discuss the type or combinations of the types of layout you have observed in
+your practice organization. Draw a block plan of your practice organization.
+3.5 Based on the determination of standard times for each service, unit-service costs can
+be estimated. There are three basic cost elements: direct material cost, direct labor
+cost and overhead cost. Unit-service cost can be calculated as:
+Unit-service cost = Unit direct labor cost + Unit direct material cost + allocated
+overhead to a unit.
+Are unit-service costs calculated in your practice organization? If yes,
+explain how they are calculated and provide an example. If no, describe how
+expenses will be accounted for under different cost items for any one of the
+services. What difficulties exist for estimating the cost of customized
+services?
+3.6 Balance sheets and income statements are the basic tools to analyze the firm's
+financial situation. Ratio analysis is often carried out for this purpose.
+Carry out comparative ratio analysis using the balance sheets and income
+statements for the last two years and evaluate the financial standing of the
+organization. (Calculate all the necessary ratios for such analysis), or itemize
+titles for the balance sheet/income statement for the organization.
+14
+4. PLANNING AND CONTROL SYSTEM
+(YOU HAVE TO REPORT ON AT LEAST THREE QUESTIONS OF
+CHAPTER 4.)
+Planning and control can be viewed as a system. It contributes to the overall
+objectives of the organization through its impact on the cost, volume, quality and
+timeliness of service operations.
+Planning and control consists of interrelated and interacting subsystems. They need
+to operate and behave in harmony so that the overall planning and control system is
+more than just the total of their outcomes. Some of the subsystems that can be found
+in most planning and control systems are:
+•
+forecasting
+•
+aggregate planning
+•
+inventory planning and control
+•
+detailed scheduling
+4.1 Forecasting is a basic element of management decision making. Indeed, virtually
+every significant management decision is predicated on some forecast of the future.
+At the corporate level, forecasting forms the essence of long range planning. Within
+the functional areas, finance and accounting rely on forecasts of demand for
+budgetary planning and cost control. Operations management uses forecasts in
+making decisions regarding facility layout, demand smoothing, capacity planning,
+inventory management or scheduling.
+In a service environment forecasting the demand may not be easy, especially if the
+service is highly customized. In that case it might be necessary to forecast several
+variables such as the number of customers requesting service, the amount of
+workload in the service, the variety of services provided, or the units of product
+supplied. For example, in a retail store each customer purchases a bundle of goods
+with possibly different size and mix, therefore it would be useful to forecast a variety
+of variables such as demand for each product (per unit time), the number of
+customers visiting the store (per unit time), size and mix of the bundles (per
+customer), etc. These forecasts help making decisions regarding the layout of the
+front- and back-stores, inventory management of the products, or replenishment
+quantity and frequency of the shelves.
+15
+Discuss the forecasting activities of the firm. Identify purposes of forecasts.
+Provide the forecasting methods that the firm uses. Choose an example of
+forecasting activities and specify factors such as: the need for forecasting,
+sources of data or method of collecting opinions, any model used, forecast
+accuracy measurement and computer support in forecasting. If there does
+not exist any forecasting activities, identify the variables that you think
+should be forecasted. Also suggest a method for forecasting and discuss how
+these forecasts would support decision making. Be specific in your
+suggestions.
+4.2 In service systems, matching capacity and demand is a challenging task. The reason
+is service is a customized product which cannot be stored, and demand is highly
+variable and hard to predict in nature and cannot be backordered for a long time. It is
+important to manage service capacity by defining appropriate operations strategies,
+and to smooth and manage demand by designing marketing strategies.
+a. Demand management: In service industries, demand can be manipulated by
+strategies such as promotions and price incentives, yield management,
+postponement, or design of complementary services (to generate demand). For
+example, under certain utility tariffs, a high price is charged for electricity for peak-
+load hours and low price is charged for off-peak hours of the day, which helps to
+smooth demand. Yield management is a practice first adopted by firms with
+constrained capacity (such as airlines). The aim is to dynamically set the prices over
+time and with respect to customer segments, to manipulate demand and to increase
+revenues. Reservation (which is practiced by hotels, travel agencies) decreases the
+randomness in demand and enables postponing the demand to available time slots.
+Designing complementary services, such as adding bar in a restaurant, or adding a
+fast-food corner in a retail store helps generating demand and prevents loss of
+customers due to temporarily insufficient capacity.
+How variable is demand in your practice company? What are the causes of
+fluctuations in demand? What are the situations that lead to insufficient
+capacity? Describe how demand is managed and what kind of tools are (or
+should be) used to smooth demand. How does it help to match demand with
+service capacity?
+b. Control of service: Operations strategy defines ways to increase capacity utilization
+by controlling the service supply. In service systems, to meet surge demand the
+capacity level is changed by changing the workforce level rather than investment in
+equipment. Firms may prefer using adjustable, part-time and/or cross-trained
+16
+workforce for that purpose. In analogy to cross-trained workforce, a portion of
+capacity might be made variable. For example, airlines move the partition between
+first-class and economy to meet the changing mix of classes. Other ways to increase
+capacity utilization is to share the capacity with other companies (for example
+airlines form alliances to share flight capacity), and to increase customer
+participation in service process (designing self-service systems such as ATMs, to
+eliminate personnel who serves food in fast-food restaurants). Customer participation
+creates service capacity at the moment it is required.
+Describe the operations strategy in the company regarding the control of
+service capacity. Discuss the advantages and disadvantages of these
+strategies.
+4.3 In service systems inventory might be kept for several purposes: Many service
+processes use certain input materials which should be inventoried to match
+demand with supply. For example a hospital must stock items such as syringes,
+bandages, or medicine. Some services may supply a tangible product besides the
+intangible product, which could be inventoried. For example, in a restaurant some
+amount of output must be kept in stock to provide prompt service. In knowledge
+industry the service process involves production of information which must be
+stored. For example a publisher uses ink and paper as input materials (i.e
+resources) and the output is books or newspapers. A consultancy firm produces
+outputs in the form of reports. In service industries often times the inventory is
+perishable.
+a. Inventory of input materials is managed through an inventory control policy. In a
+continuous review inventory control policy, the inventory position is monitored after
+every transaction, and stock replenishment decisions are not necessarily regularly
+scheduled. In the periodic review policy, replenishments are done at equally spaced
+points in time (although the inventory could possibly be monitored continuously).
+Define major items of input material and output inventories by their
+functions. Explain reasons (uncertainty, seasonal fluctuations, cycle stocks,
+quantity discounts, pipeline effect, etc.) for holding these items. Justify any
+one of the items' inventory, stating what would happen (cost, time losses,
+faulty processing, transportation difficulties, etc.) if that inventory were not
+carried. Discuss the inventory control policies exercised in your practice
+organization for the major input materials you specified above. How would
+you measure the performance in managing these inventories? Propose and
+compute the value(s) for at least one such measure.
+17
+b. In a manufacturing system, the output inventory serves as a buffer between the
+production and demand and absorbs the fluctuations in demand. In a service system
+excess capacity serves the same purpose. However, keeping buffer capacity is a costly
+option and sometimes customer waiting is a more preferred choice. When managing
+the service system the firm must carefully balance the cost of buffer (idle) capacity
+and the cost of customer waiting.
+Explain how the decisions regarding keeping buffer capacity and customer
+waiting are given in the company. Does the firm allow for customer waiting?
+Under which conditions does customer waiting occur?
+4.4 A recent trend in manufacturing management that also started to find some
+implementation in services is the application of Just-in-Time (JIT) philosophy. The
+objective of JIT is to work towards reducing organizational slacks carried to assure a
+smooth operation (for instance, large inventories, extra allowances for scraps, buffers
+among machinery, promising extended delivery dates, excessive supervision,
+redundancies in record keeping, etc.) ideally to a zero level in all activities. This is to
+be achieved in gradual steps through the process of continuous improvement.
+Are there organized and focused studies for the purpose of reducing such
+undesired “slack”? If yes, describe an example. If no, state an example of
+allowance or slack you have observed, that is used in the organization to
+assure safe (uninterrupted) operation. What do you think has caused the
+need for such an assurance?
+5. QUALITY PLANNING AND CONTROL SYSTEM
+5.1 There is little agreement on what constitutes quality. Most people conceive quality as
+an attribute of a product or service that can be improved. However, quality is not
+only associated with products and services, but also includes processes, environment
+and people. Quality can be defined as a dynamic state associated with products,
+services, processes, environments and people, that meets or exceeds expectations.
+According to research (Parasuraman et.al, 1985), the consumers assess the quality of
+a service based on characteristics such as reliability, responsiveness, competence,
+empathy and tangibles. Reliability involves consistency and dependability of a service
+(for example in a restaurant the billing must be accurate). Responsiveness concerns
+the timeliness of the service. Competence is about the knowledgeability and skill of the
+18
+personnel that provides service. Empathy includes attributes such as approachability
+of the personnel and how concerned the personnel is about the problems of the
+customers. Tangibles are related with the physical environment, such as the facilities
+or appearance of the personnel.
+Measuring the quality of a service is not easy due to the dominance of intangible (and
+psychological) factors. The customers have an expected level of service. Even if a
+company is able to perfectly identify the “expected service”, in the process of service
+delivery discrepancies may occur, which may result in a gap between the perceived
+service and the expected service. This gap may also occur due to company’s
+(mis)perception of the customer expectations, not being able to translate the
+perceptions into quality specifications, or not being able to communicate the
+specifications well. For example, if a company creates an image that increases the
+customer expectations, quality ratings would be low even if the company meets the
+internal quality specifications.
+Explain how the organization defines quality of a service it provides. How
+are customer requirements translated into product or service specifications
+(or characteristics)? Provide examples.
+5.2 In service systems quality control uses tools such as histograms, process flowcharts
+(similar to service blueprints), Pareto charts, fishbone diagrams or process control
+charts. Recent trends in quality management focus on quality assurance that
+emphasizes the preventive aspects of quality management (such as identifying the
+customer expectations and designing the service to meet those expectations). Quality
+is viewed as the job of everyone, and continuous improvement towards the eventual
+goal of meeting and exceeding customer expectations is a basic principle of the
+modern quality management approach.
+Describe the quality control activities that take place throughout the life cycle
+of a service. If the firm does not employ any quality control methods make
+suggestions on how to monitor the quality of the service. Describe and
+discuss how responsibility of quality is shared in the firm (quality
+organization).
+19
+6. MANAGEMENT INFORMATION SYSTEM
+YOU HAVE TO REPORT ON AT LEAST TWO QUESTIONS: 6.1 AND
+EITHER 6.2 OR 6.3.
+6.1. Every organization has an information system that is designed to meet its
+information requirements. Data are recorded, classified, summarized and processed
+to produce information in this system. Management information system should
+support decision making at three different levels:
+a) Strategic level decisions (e.g. plant expansion, determination of service mix,
+mergers, diversification, capital expenditures, etc.).
+b) Tactical level - implementation of plans (e.g. allocation of resources through
+scheduling, formulation of budgets, funds flow analysis, layout decisions, personnel
+problems).
+c) Operational level, day-to-day routine operations (e.g. scheduling, inventory
+control and allocating workers to jobs).
+Specify the decision makers (individual or group, their positions within the
+organizational structure) and the related subject of decision making with
+regard to one decision making activity in each of these decision levels.
+Explain how data is used (i.e. gathered, recorded, organized and processed)
+to support decision making for each of the examples you provided.
+6.2 Computers are widely used in processing data and providing information for
+managerial decision making. They are also employed in organization to improve
+productivity and provide better utilization of resources. The physical units making
+up a computer system are called hardware.
+Identify the computer system (computer networks, stand-alone PC’s,
+workstations, main frames , etc) their types and approximate capacities in
+use and their spread (functions or departments with extensive or low
+computer support in their operations) in your practice organization. Take a
+particular division or department that has access to a computer (as a system,
+as connected to a network or as a stand-alone computing facility). Itemize
+types of data recorded and processed.
+6.3 The effectiveness of a computer and the ease with which it can be utilized depends
+upon a number of factors such as the mode of operation of the computer system,
+20
+availability of high level language compilers, application programs (utility programs,
+file handling software, database management system software) and so on.
+Identify the software used in the firm. Name a few application programs
+available in the organization for enterprise wide application (Enterprise
+Resource Planning (ERP), reservation system, stock keeping, accounting etc.)
+except standard office programs (word processors, spreadsheets,
+presentation organizers). Discuss the level of decision supported in light of
+section 6.1. Give an example of what is performed based on that specified
+software.
+7. WORK STUDY
+YOU HAVE TO REPORT ON AT LEAST ONE QUESTION: 7.1 OR 7.2.
+7.1 Work Study is a term used for those techniques, particularly method study and work
+measurement, that are used in the examination of human work in all its context and
+lead systematically to the investigation of all the factors which affect the efficiency
+and economy of the situation being reviewed in order to bring improvement.
+Method study is the systematic recording and critical examination of existing and
+proposed ways of doing work as a means of developing and implementing easier and
+more effective methods and reducing costs.
+Work measurement is the application of techniques designed to determine the time
+needed by a qualified worker to carry out a specified job at a given performance level.
+Work Study is mostly used to increase production using a given quantity of
+resources with little or no further capital investment. In other words, it deals with
+increasing the productivity. Through the tools and techniques of work study, basic
+standards and operation routings are developed that will improve planning and
+control.
+Apply two of the work measurement techniques (stopwatch, predetermined
+time standards or work sampling, etc.) to a worker or a member of the office
+staff that works on repetitive tasks and evaluate the results.
+Apply method study to define more effective methods.
+21
+7.2 Jobs within an organization are not all alike. Some are more demanding physically,
+some require unusual mental skill; some must be performed under unfavorable
+working conditions. 'Job Evaluation' is a systematic procedure for establishing a
+hierarchy of jobs. A 'Job Description' gives a brief definition of the job and presents
+a detailed account of the job content based on the results of job analysis. A 'Job
+Specification' describes the skills involved in the job and other mental, physical,
+educational requirements that the job demands from the worker.
+Job Evaluation studies are used in classifying workers and staff into 'wage groups'.
+Since the requirements of each job are described in detail, the findings are also taken
+into consideration in the execution of employment and training activities of the firm.
+Has there been any 'Job Evaluation' study in the firm? If so, discuss briefly
+the method and the current implementation of the findings of the study. If
+not, explain how the wage differentiation among the personnel is
+determined.
+8. CONCLUSION
+8.1 The following questions are prepared to obtain your own assessment of the summer
+practice. You can add as many ideas as you wish besides answering these questions.
+You should not, however, ignore any question. Your answers, additional ideas and
+suggestions will guide the reorganization of this manual in the future.
+Is the procedure you have followed in this summer practice sufficient in its
+scope, method and general approach? If not, identify the drawbacks. State
+your suggestions for an improved procedure. If you found it sufficient, state
+what you enjoyed most about it. What was the most difficult part in your
+study of a potential IE problem?
+If you had another four weeks in the same firm, what would you be occupied
+with and why?
+What do you expect to learn in your future training as an industrial engineer
+that will help improve your understanding of production systems? How can
+you further develop your capability of handling problems of these systems?
+Drawing on your experience of this practice, discuss the differences between
+industrial engineering and other engineering disciplines with respect to their
+22
+responsibilities and ways of approaching their duties in the production
+environment.
+If industrial engineers are employed by the firm, what are the areas they
+work in? If no industrial engineer is employed, what activities (if any) do you
+think are suitable for IEs in your practice organization? Discuss top
+management's impression and attitudes towards industrial engineering
+functions and activities.
+8.2 YYoouu araer er eqrueqirueidre dto fitlol oufti ltlh eo quut estthioe nnqauierest itohnanta wireil l boen setnhte t o wyoebus ivteia
+e-mail at the beginning of the semester. Otherwise, your summer
+www.ie.metu.edu.tr/~sp. The questionnaire should be filled out until the
+practice report will be considered as incomplete.
+submission date of your summer practice report. Otherwise your report will be
+considered as incomplete.
+23
+APPENDIX A
+A NOTE ON THE DEFINITION AND FORMULATION OF INDUSTRIAL
+ENGINEERING PROBLEMS
+You are required to identify, define and formulate an industrial engineering
+problem. The problem may be related to one or more areas of interest in industrial
+engineering. The problem has to be examined with its specifics for your practice
+organization.
+You are advised to take the view outlined below (an excerpt from “Notes on
+System Design” by Prof. Dr. Çağlar Güven, February 1998) in identifying and
+describing a problem:
+Engineers are expected to ‘solve problems’.. To see what this means we can adopt
+a simplified view: a problem is something that needs a solution but does not have
+one. At first sight the difficulty seems to be finding a solution but as far as IEs are
+concerned, often that’s not even half the difficulty. Forget about well-defined
+textbook problems and solutions. Real-life problems have a bothersome habit: they
+don’t come singly. They stick firmly together and often we cannot tell one from
+the other. Instead we observe a tangled web, and as we do so, we have to try hard
+to catch glimpses of individual problems. The usual inclination is to forget about
+the other problems in the web once we believe we have identified one. We shall
+say more of this later; for the moment let me put it like this: it may very well be
+better to spend more of your time trying to identify and structure issues than
+trying to solve problems. In any given problem situation there will always be
+more than one issue involved. Consider for example, the design of a fast-food
+outlet: Forecasting the demand for food ingredients, scheduling the staff, pricing
+the foods, capacity planning, planning daily purchases, selecting a location,
+training the staff and several other aspects similar to these are the issues you have
+to consider. Which ones are you going to address? Structuring an issue means
+studying and selecting one for further analysis using models within a systemic
+framework. The reason why structuring issues is at least as important as solving
+problems can be explained as follows: We do not really know what we mean by a
+solution. When we talk about a problem we imply that there exists a set of
+conditions that is less than satisfactory and needs improvement. The nature of the
+improvement however is often not clear at all and the dynamics of the
+improvement process is equally complicated. The end result is obtained one way
+or another and is likely to be the product of the joint effort of many people. One
+24
+might say then that suggesting questions can be more important, potentially more
+originative, than suggesting answers. In this way issues will be unfolded that
+might otherwise have gone unnoticed. It all comes to this: an IE will perhaps be
+most useful if she can point out meaningful problem areas and if she can structure
+them; the rest will be collectively taken care of by the organization, one way or
+another. But even so, this does not mean that you can forget about looking for
+solutions altogether; for you see, looking for solutions is in fact part of looking for
+problems.
+1. Identification and Definition of the Problem
+Various industrial engineering problems exist in a production environment as
+interwoven with each other. Deficiencies occurring in production planning may be
+the consequence of ill-structured forecasting done by the marketing department.
+The problems encountered, say in raw material inventory holding, may be the
+result of economic crisis experienced in the sectors providing the raw material.
+The low utilization of machinery may be due to high level of absenteeism among
+workers for which the major reason could be poor industrial relations. Deficiencies
+in production planning, problems in raw material inventory holding, and low
+utilization of machinery are all symptoms of the problems.
+Problems are identified by observing such symptoms through a careful analysis of
+the existing system. A trouble-shooting exercise is essential in order to define an
+industrial engineering problem. Possible causes of the symptoms should be
+studied. Observations of symptoms should be validated by objective
+measurements (e.g.: low utilization of machinery should be proven by data
+collected on utilization rates). This analysis can be supported by some of the
+questions in this document. The guidance and proposals of the authorities in the
+firm may also help in the identification of an industrial engineering problem. In
+studying the problem situation you may use the following analysis tools:
+•
+cause-effect diagrams (fish bone diagrams)
+•
+pareto analysis
+•
+relations diagram
+•
+logic tree analyses
+•
+flowcharts
+•
+check sheets
+25
+•
+rich pictures
+•
+brainstorming
+•
+run charts
+•
+influence diagrams
+•
+multivoting
+•
+nominal group technique
+•
+stratification
+•
+affinity diagrams
+•
+precedence diagrams
+2. Formulation of the Problem
+At the end of the first step, you should have identified the virtues or benefits,
+pitfalls, shortcomings or disadvantages of existing practices pinpointing functions
+that are partially or completely lacking. Such an evaluation forms the basis for the
+redesign and improvement of the existing system.
+A clear formulation of a problem starts with:
+•
+an exact description of the decision maker (owner of the problem),
+•
+the goal or the objective (direction of and satisfactory amount of improvement)
+of the decision maker,
+•
+performance criteria (to be used in evaluating goodness of a solution in
+achieving the objective),
+•
+an identification of alternative courses of action (to achieve the objectives), and
+•
+a clear recognition of the limitations, restrictions and requirements of the
+system. An analysis of the interactions of the problem with various subsystems
+in the firm can also be carried out during this phase.
+You are encouraged in this formulation stage to think and comment about specific
+modelling approaches appropriate for the problem you defined.
+26
+APPENDIX B
+A NOTE ON REPORTING ABOUT A PARTICIPATED PROJECT
+DURING THE SUMMER PRACTICE
+You may have taken a role within the scope of industrial engineering on an
+ongoing project in your practice organization. Instead of identifying and
+formulating a separate problem, you may report on this project and your specific
+part in it. However, you are required to verify that the project is in a relevant area
+of interest with regard to industrial engineering and that a well identified problem
+had initiated the project work.
+If the project you participated in is completed, you are required to submit a report
+consisting of at least the following sections:
+•
+Introduction (Products/Services/Manufacturing/Service Provision processes
+addressed in the project, context of the problem, composition of the project
+team)
+•
+Problem statement (Description of what issue was tried to be
+solved/improved/implemented, its relevance as an IE problem)
+•
+Approach Taken (what stages were initially planned for the project, why and
+how were they modified during the work on the project, your role specific
+within the approach)
+•
+Summary of Work Done (a sample list of data gathered or facts collected and
+analyzed, methods used in these, typical results of calculations/experiments/
+estimations etc.)
+•
+Conclusions and Recommendations (Outcomes of the project, Suggestions
+made, initiated actions, extensions of the results, your evaluation of the
+outcomes)
+If the project you participated in was still in progress at the end of your practice
+period, you are required to submit a report consisting of at least the following
+sections:
+•
+Introduction (Products/Services/Manufacturing/Service Provision processes
+addressed in the project, context of the problem, composition of the project
+team)
+27
+•
+Problem statement (Description of what issue was tried to be
+solved/improved/implemented, its relevance as an IE problem)
+•
+Approach Taken (what stages were initially planned for the project, your
+specific role within the approach)
+•
+Project Schedule (a project activity network or a Gantt chart)
+•
+Work Done To Date (a sample list of data gathered or facts collected and
+analyzed until the time you quit the organization, methods used in these,
+typical results of calculations/experiments/ estimations etc. done that far in
+time)
+•
+Expectations of the Outcomes (Prospective benefits, your evaluation of the
+outcomes)
+28
+BIBLIOGRAPHY
+Murdick, R.G., Render, B. and Russell, R.S, Service Operations Management,
+Publisher: Allyn and Bacon (Boston), 1990.
+Fitzsimmons, J.A and Fitzsimmons, M.J, Service Management for Competitive
+Advantage, Publisher: McGraw-Hill, Inc., 1994.
+Norman, R., Service Management: Strategy and Leadership in Service Business,
+Publisher: John Wiley & Sons Ltd. (England), 1991.
+Parasuraman, A., V. A. Zeithaml, and L. L. Berry, “A conceptual model of service
+quality and its implications for future research”, Journal of Marketing, 49, 1985.
+P E Hicks, “Industrial Engineering and Management: A New Perspective”, 2nd
+Edition, McGraw Hill, 1997.
+S Nahmias, “Production and Operations Analysis”, 2nd Edition, IRWIN, 1993.
+D Sipper and R L Bulfin, “Production Planning, Control, and Integration”,
+McGraw Hill, 1997.
+J B Dilworth, “Production and Operations Management Manufacturing and
+Services”, 5th Edition, McGraw Hill, 1993.
+R M Barnes, “Motion and Time Study design and measurement of work”, 7th
+Edition, Wiley and Sons, 1980.
+29
+
+
+--- END OF SOURCE: ie400-service_manual_1.pdf ---
+
+
+
+--- START OF SOURCE: ie400-manufacturing_manual_1.pdf ---
+
+MIDDLE EAST TECHNICAL UNIVERSITY
+INDUSTRIAL ENGINEERING DEPARTMENT
+IE 400
+SUMMER PRACTICE MANUAL
+2009
+The purpose of summer practice is to improve your understanding of the industry and experience
+in industrial engineering. These can best be achieved through guided observations followed by a
+formal reporting. This manual provides guidelines for the summer practice and the preparation of
+the practice report of METU Industrial Engineering third year students. First, format and style of
+the practice report is described. The rest of the manual lists questions that are expected to be
+addressed in the report. The questions are organized in eight sections. Explanations are given
+before most of the questions. Students should elaborate on their responses to the questions and
+provide supporting discussions. A list of references is also provided. In addition to responding to
+the questions listed, students should also define and formulate an industrial engineering problem,
+or report exclusively on a project they participated in throughout their summer practices. The
+Appendix at the end of this manual provides some clues on how these might be done.
+TABLE OF CONTENTS
+INSTRUCTIONS ON THE FORMAT AND STYLE OF THE REPORT ..................... 3
+EVALUATION OF THE REPORTS ................................................................................ 4
+1. INTRODUCTORY FEATURES .................................................................................... 6
+2. ANALYSIS OF THE MACRO ASPECTS ................................................................... 6
+3. AN OVERVIEW OF THE PRODUCTION SYSTEM ................................................ 9
+4. PRODUCTION PLANNING AND CONTROL SYSTEM .................................... 13
+5. QUALITY PLANNING AND CONTROL SYSTEM............................................... 17
+6. MANAGEMENT INFORMATION SYSTEM .......................................................... 18
+7. WORK STUDY ............................................................................................................. 19
+8. CONCLUSION ............................................................................................................. 20
+APPENDIX A - A NOTE ON THE DEFINITION AND FORMULATION OF
+INDUSTRIAL ENGINEERING PROBLEMS ............................................................... 22
+APPENDIX B - A NOTE ON REPORTING ABOUT A PARTICIPATED
+PROJECT DURING THE SUMMER PRACTICE ........................................................ 25
+BIBLIOGRAPHY .............................................................................................................. 27
+2
+INSTRUCTIONS ON THE FORMAT AND STYLE OF THE
+REPORT
+The report must be written in English, and printed in ink or typed.
+The main section headings are to be numbered and written in capital letters. The sub-titles must be
+written in lower case letters and underlined. All pages should be given page numbers. Figures,
+drawings, tables, pictures, etc. should be numbered appropriately.
+The report should consist of the following sections:
+Table of contents (with corresponding page numbers)
+Introduction (scope of the summer practice; main difficulties faced during
+the practice which affected the course of the work)
+Main body of the report (detailed explanation of the work carried out
+including sections on an IE problem or contributed project)
+Conclusion (evaluation of the experience gained and feedback on the content
+of summer practice)
+References (list all the material referred to in the report text)
+Appendix (all data, tables, diagrams, drawings, etc. which are not
+immediately relevant to the main text should be included in the appendix).
+In writing-up the report, the main sections of the manual and the questions may be followed in the
+given order. However, the content, the main body or a main section of the report may be
+reorganized in subsections defined by the student provided that all questions in this guide have
+been answered.
+When a question is not appropriate for the case on hand or a suitable answer is not available, the
+question can be disregarded. However a clear justification of why the question is not answered
+should be provided. The student can also attempt to modify and then answer the question so that
+it is relevant to the practice organization.
+It is advisable to add a glossary to the end of the report for technical terms used including the
+company specific jargon.
+The summer practice reports are due within the first two weeks of
+the following academic term.
+3
+EVALUATION OF THE REPORTS
+The grading of the reports is as follows: There is a total of 200 points obtainable
+from the questions section and 100 points obtainable from the problem or
+participated project section. IE 400 students must pass separately on both counts
+and have to score at least 50% in each of the question section. For the question
+section any grade between 125 and 160 points or any grade less than 50% of the
+full score of a section will be considered as 'Incomplete' and the report will be
+returned to the student for revision. Grades less than 125 will be considered as
+'Unsatisfactory' and the summer practice will be repeated in a different work place
+the following year. For the problem or participated project section, any grade
+between 40 and 65 points will be considered as incomplete and the report will be
+returned to the student for the revision of this section. Grades less than 40 for the
+problem or participated project section will be considered as 'Unsatisfactory' and
+the summer practice will be repeated in a different work place the following year.
+The 200 points will be accorded as follows:
+Introductory Features : 10 points
+Analysis of Macro Aspects : 20 points
+An Overview of the Production System : 35 points
+Production Planning and Control System : 50 points
+Quality Planning and Control System : 20 points
+Management Information System : 20 points
+Work Study : 20 points
+Conclusion : 15 points
+Style and Organization of the Report : 10 points
+You are required to fill out the questionnaire that will be sent to you via e-mail
+You are required to fill out the online questionnaire on the website
+at the beginning of the semester. Otherwise, your summer practice report will
+www.ie.metu.edu.tr/~sp. The questionnaire should be filled out until the
+be considered as incomplete.
+submission date of your summer practice report. Otherwise your report will be
+considered as incomplete.
+4
+PROBLEM / PARTICIPATED PROJECT SECTION
+The content of the problem/participated project section will be evaluated on the
+basis of the following:
+ Problem/Project context (relevance to industrial engineering and
+significance for the practice organization)
+ Technical content of the work reported on
+ Style and organization of the section (language, presentation order, clarity)
+PROJECT-TYPE SUMMER PRACTICE REPORT
+For the students who will submit a project-type summer practice report, the 100
+points will be accorded as follows:
+Introduction : 5 points
+ Description of the company
+Literature Review : 10 points
+Problem Definition : 30 points
+ See Identification and Definition of a Problem part in Appendix A.
+Data Gathering and Analysis : 10 points
+Solution Approaches : 20 points
+Results : 15 points
+Conclusion : 10 points
+5
+1. INTRODUCTORY FEATURES
+1.1 What is the full title of the firm? When was it founded and where is it located? (Give the full
+mailing address)
+1.2 What is the type of ownership of the firm? State the main shareholders and their shares. Is
+the firm a partnership, a joint venture, a franchise, a part of a holding company or a part of a
+multinational group?
+1.3 Specify the sector and typical products the firm manufactures or typical services it provides
+to its customers. Include a few samplers of its advertising brochures or pamphlets or
+catalogue pages in your appendices to illustrate typical products or services, if available.
+What are the firm’s shares in the domestic market and (if any) in the international markets?
+1.4 Who are regarded as the customers of your practice organization (consider the end users,
+retailers, other manufacturers, employees, etc.)?
+Identify the stakeholders, i.e. the groups considered by the organization to have any sort of
+interest in the organization’s activities (such as certifying agencies, labor unions, professional
+societies, government, local community, potential customers, competitors and employees).
+1.5 Provide a list of functions performed by the industrial engineers in the practice organization.
+2. ANALYSIS OF THE MACRO ASPECTS
+2.1 Production (or service operations) system is the heart of every organization as it
+consists of all the activities that add value to its output. A production system uses
+many types of input (e.g. materials, equipment, supplies, labor, energy, money,
+information) some of which are the products of other organizations and transforms
+them into goods or services as outputs. These goods and services may also be used as
+inputs to other production systems. Besides, a production system interacts with its
+environment (e.g., customers, competitors, national economy, government,
+technology, creditors, suppliers) during its operation..
+An overall view of any production system whether it manufactures goods or provides
+services, can be stated by taking the inner working of the system as a black box.. This
+requires identifying inputs into and outputs from the system.
+Study the production (or service operations) system of your practice
+organization taking an overall view. Sketch the system as a black box
+identifying its inputs and outputs.
+6
+Does the firm produce goods and/or services only for the domestic market? If it exports some or all of its products,
+give some quantitative details of these for as many past years as you can find data for. Are there any constraints (or
+regulations) that prevent the firm from competing with similar products (or services) in the foreign market?
+Does the firm import raw materials, intermediate goods or any of its inputs
+(in your black box diagram)? If so, list the countries from which imports
+arrive.
+What are the standards and certificates (such as ISO, TSE, EN, EC, etc.) the
+firm conforms to with regard to its activities? Describe briefly and exemplify
+any limitations or norms imposed by these standards.
+2.2 Every organization has a reason for existing and identifies what business it is in.
+This is its mission. For example, an organization operating a five-star hotel
+accommodation might have the mission of supplying premium quality service with
+an elite image. Vision, on the other hand, is the ability to imagine a different and
+better situation and ways to achieve it. An airline company, for instance, may
+imagine itself to be among the top three in the world for frequent business travellers.
+An auto manufacturer may have the vision of getting ninety-nine out of every
+hundred cars delivered with no defects whatsoever.
+How can you state the mission of your practice organization? Are there
+differences in missions regarding different goods or services offered by the
+firm? What visions are there with regard to the services (or goods) and
+processes performed in your practice organization?
+2.3 When deciding on the location of a manufacturing or service facility, there are many
+factors to be considered. Some of these are:
+a) distribution needs for the products,
+b) availability or physical characteristics of raw materials,
+c) physical characteristics of the products, characteristics of the services provided
+d) labor availability and quality,
+e) transportation facilities,
+f) proximity to suppliers, proximity to customers of the provided services,
+g) environmental factors,
+h) laws, taxation, incentives, government politics etc.
+i) cost of land and buildings
+7
+Specify the most prevailing factor for selecting the current location of the
+facility with regard to the factors listed above or the like. Support your ideas
+with quantitative or qualitative observations. (You may use a sketch, a table,
+a graph or a map, if necessary).
+THE FOLLOWING SECTIONS (2.4 AND 2.5) ARE OPTIONS FOR YOU TO CHOOSE
+ONE TO STUDY AND REPORT ON:
+2.4 In any enterprise, there will be a need for capital for investments. Such an
+investment may be required for: (a) replacing old machinery and equipment, (b)
+capacity expansion, (c) increasing service quality or availability through new
+facilities, new branches, new products, etc.
+Does top management have plans and proposals for capital investment? If
+so, state what these investment plans are. If not, explain why top
+management is not currently considering such plans.
+What evaluation methods and criteria are used to select among several
+alternative investment proposals? Is there a procedure to take into account
+the effects of inflation in considering future investments? Provide an
+example as to how investment alternatives were evaluated in the past. If such
+a procedure is not used, propose and justify a selection procedure.
+2.5 Technology covers all the knowledge (principles, procedures, reasoning etc.) and
+means (equipment, tools, components) of producing desirable outcomes from various
+inputs under given conditions. The search for development, adaptation and
+implementation of technologies is mostly taken as projects in organizations. A
+project could be defined as a series of related jobs usually directed toward some major
+outcome, requiring a significant period of time to perform and it often consists of
+capital investments and/or activating changes in organizational procedures through
+various stages. Project management can be defined as planning, directing and
+controlling the resources of people, equipment, material and money to meet the
+technical, cost and time constraints of the project. PERT/CPM oriented techniques
+are frequently used for project management.
+How did the firm obtain its know-how and/or technologies? Have there been
+improvements, upgrades or renewals in major procedures, processes and
+technologies? Does the firm use any licensed trademarks, patents,
+technological know-how, titles, etc.? Describe briefly and exemplify any
+8
+limitations imposed by the providers of technology or providers of registered
+trademarks.
+Is there a unit or activity involved in research and development (R&D) for
+products, services and processes in the firm? If so, describe its status
+regarding its human resources, machinery/equipment, library and budget. If
+there is not, how are innovations for new products, services or processes
+being done?
+How is project management exercised with respect to capital investments or
+technology adoptions?
+3. AN OVERVIEW OF THE PRODUCTION SYSTEM
+3.1 A production system takes inputs and transforms them into outputs with some
+inherent value. The transformation process is, in fact, a flow process of input
+materials and information. Production systems can be categorized into two classes
+as manufacturing and service. In manufacturing, the inputs and outputs are
+usually tangible, and the transformations are often physical. On the other hand,
+service-oriented production systems may have intangible inputs/outputs, such as
+information, and transformations that may not be physical.
+Provide a process (operations) chart of a major
+ product/subassembly or
+ routing for a group of products or
+ service process.
+3.2 Capacity is the maximum output of a system in a given period. Capacity is normally
+expressed as a rate, such as the number of tons of steel that can be produced per week,
+per month, or per year. For many companies, measuring capacity can be
+straightforward. It is the maximum number of units that can be produced in a
+specific time period, for example, the number of cars assembled per month in the
+automobile industry. However, for some organizations, determining capacity can be
+more difficult. In job shop production systems, for example, the products are so
+varied that defining capacity in terms of output is not meaningful. In such systems,
+capacity should be expressed in terms of resource inputs such as total work time
+9
+available, beds available/day in a hospital, or as a capacity vector indicating
+production levels of products.
+The designed capacity (theoretical capacity) of a system is the maximum capacity
+that can be achieved under ideal conditions. Most organizations operate their
+facilities at a rate less than the designed capacity. They do so because they have
+found that they can operate more efficiently when their resources are not stretched to
+the limit. This concept is called effective capacity or utilization. Utilization is the
+maximum capacity a firm can expect to achieve given its product mix, scheduling
+method, maintenance program, and standards of quality. Another consideration is
+efficiency.. Depending on how facilities are used and managed, it may be difficult to
+reach 100% efficiency. Typically, efficiency is expressed as a percentage of the
+effective capacity. Then the rated capacity is a measure of the maximum useable
+capacity of a particular facility. Rated capacity can be computed as:
+Rated capacity = (Designed capacity) (Utilization) (Efficiency).
+How is the rated capacity of your practice organization defined and
+measured?
+3.3 Production processes –both manufacturing and service- can be categorized as
+follows:
+Those processes in manufacturing that are characterized by continuous flow as in
+steel making, sugar refining and chemical processing are called continuous processes,
+and similarly in service systems, services such as police and fire protection are
+examples of ongoing processes that operate on a continuous 24-hour basis.
+When items are produced in large lots following an unchanging sequence of
+operations in manufacturing, and standardized services are delivered in service
+systems, the process becomes a repetitive process. Standardized product types
+characterize it. Due to unchanging routing of parts, facilities can be arranged as a
+flow shop. An automobile assembly line in manufacturing, cafeteria and university
+registration as service systems are good examples of a flow shop.
+Intermittent processes are those processes in which items are processed in small lots
+to customer specifications in manufacturing, and services are tailored to customer
+specifications in service systems. Job shop, batch shop and project shop typify these.
+A job shop produces low-volume highly customized products. Product routing
+10
+varies widely and facilities are arranged on a functional basis. Metal, plastic,
+woodworking industries, and providing special-delivery mail service and service
+department for an automobile dealership where non-standard products are processed,
+are examples of job shops. Between the extremes of job shops and flows shops is the
+batch shop.. In batch shops, product variety is lower; batch sizes are larger; and
+repetitiveness of operations is higher compared to job shops. An example of a batch
+manufacturer might be a company making small hand tools like drills of different
+sizes; and examples of batch service might be catering, health care, and providing
+standard service in groups like scheduling air or bus travel. Project shop produces a
+single, customized product like large turbines, aircrafts, and ships in manufacturing
+organizations, and developing software, management, consulting work, preparing for
+a banquet in service organizations.
+A production system’s operation can also be classified as make-to-stock (MTS),
+make-to-order (MTO), or assemble-to-order (ATO). This classification is based on
+the degree of interaction between the firm’s production function and the customers of
+the firm, with MTS involving the least amount of interaction and MTO the highest
+degree of contact. The MTS firm produces in batches and carries finished-products
+inventories, where products can be delivered from stocks. The small-appliance
+industry, in which manufacturers build inventories for future sales, is an example.
+Since services cannot be stored, service firms cannot operate as an MTS system. In
+MTO firms, no finished-products inventory is held, and customer orders are
+backlogged; products are designed and produced under close collaboration between
+the firm and customer, only after the order is received. Jet engine manufacturing is
+an example of MTO manufacturing, while an automobile repair shop is an MTO
+service. ATO is a hybrid firm where parts and subassemblies are made according to
+forecasts while the final assembly of the products is delayed until customer orders are
+received. An example of an ATO manufacturer is an automobile factory that, in
+response to a dealer's order, provides an automatic or manual transmission, air
+conditioner, interior options, etc.; and an example of an ATO service firm is a fast-
+food shop.
+A production system may be a combination of the above classes.
+Explain the type of operations or combination of types in your practice
+organization.
+11
+3.4 Layout is concerned with determining the best arrangement of the appropriate
+number of facilities, stock areas, and service centers in the production system. A
+block plan is a diagrammatic representation of a plant's physical facilities showing
+internal positions and area allocation to departments.
+Draw a block plan of your practice organization or provide a blueprint, if
+available.
+3.5 The types of layouts in a production system can be as follows:
+One typical job shop layout is process layout in which all similar equipment and
+operations are grouped together in the same department. For example, all stamping
+is done in the press department. Services also may be arranged according to process.
+Some examples are retail stores that group all similar products such as hardware,
+sporting goods, and photographic equipment in separate departments for ease of
+supervision and access by customers; outpatient clinics; travel agencies; insurance
+companies. A flow shop, on the other hand, uses a product layout. Equipment is
+arranged so that the product always follows the same routing through the layout.
+For example, assembly line is a typical example for product layout (automobile
+industry, home appliances, and electronics industry). Some services also may be
+arranged in a product layout. For example, in a cafeteria line, people pass from one
+type of operation to another. Group technology (GT) or cellular layout can be used
+to develop a hybrid between pure process layout and pure product layout. The
+equipment is arranged into cells, each containing the equipment used to process a
+particular family of parts. A project shop uses a fixed-position layout. The product
+(aircraft, ship, or a person who will have a surgical treatment in a hospital) stays in
+one place while the material and equipment are brought to it. Most plants are laid
+out using a combination of these layouts. The layouts are seldom seen in their pure
+form. Most production systems are laid out using a combination of these layouts.
+Discuss the type or combinations of the types of layout you have observed in
+your practice organization.
+3.6 A Detailed Layout is a diagrammatic representation of a department showing the
+arrangement of people, materials and equipment as well as the arrangement of
+supporting activities. Since it is difficult to represent all the details of layout of a
+production system on a single diagram; usually separate, detailed layout diagrams
+are drawn for each department.
+12
+Select a typical department within your practice organization, and indicate
+the type of layout of this department. Discuss how the characteristics of this
+layout type fit the characteristics of this particular department.
+3.7 Based on the determination of standard times for each part/product/service, unit-
+manufacturing/service costs can be estimated. Unit-manufacturing/ service cost of a
+product/service has to be determined to be utilized in various planning and decision
+making functions. There are three basic cost elements: direct material cost, direct
+labor cost and overhead cost. Unit-manufacturing or unit-service cost can be
+calculated as:
+Unit-manufacturing or unit-service cost = Unit direct labor cost + Unit direct
+material cost + allocated overhead to a unit.
+Are unit-manufacturing or unit-service costs calculated in your practice
+organization? If yes, explain how they are calculated and provide an
+example. If no, describe how expenses will be accounted for under different
+cost items for any one of the products/services.
+3.8 Balance sheets and income statements are the basic tools to analyze the firm's
+financial situation. Ratio analysis is often carried out for this purpose.
+Carry out comparative ratio analysis using the balance sheets and income
+statements for the last two years and evaluate the financial standing of the
+organization. (Calculate all the necessary ratios for such analysis), or itemize
+titles for the balance sheet/income statement for the organization.
+13
+YOU DO NOT HAVE TO WORK ON ALL QUESTIONS IN CHAPTERS 4,
+5, 6, AND 7. YOU HAVE TO REPORT ON AT LEAST 3 QUESTIONS OF
+CHAPTER 4, AT LEAST 2 QUESTIONS OF CHAPTER 6 AND AT LEAST
+ONE QUESTION IN EACH OF CHAPTERS 5 AND 7.
+4. PRODUCTION PLANNING AND CONTROL SYSTEM
+4.1 Production planning and control can be viewed as a system. It contributes to the
+overall objectives of the organization through its impacts on the cost, volume, quality
+and timeliness of production or service operations.
+Production planning and control consists of interrelated and interacting subsystems.
+They need to operate and behave in harmony so that the overall planning and control
+system is more than just the total of their outcomes (synergy). Some of the
+subsystems that can be found in most production planning and control systems are:
+ forecasting and demand management
+ aggregate production planning
+ inventory planning and control
+ detailed scheduling
+Forecasting is a basic element of management decision making. Indeed, virtually
+every significant management decision is predicated on some forecast of the future.
+At the corporate level, forecasting forms the essence of long range planning. Within
+the functional areas, finance and accounting rely on forecasts of demand for
+budgetary planning and cost control. Production and operations management uses
+forecasts in making periodic decisions involving process selection, capacity planning
+and facility layout and for decisions pertaining to production planning, scheduling
+and inventory.
+Discuss the forecasting activities of the firm. Identify purposes of forecasts.
+Provide the forecasting methods that the firm uses. Choose an example of
+forecasting activities and specify factors such as: the need for forecasting,
+sources of data or method of collecting opinions, any model used, forecast
+accuracy measurement and computer support in forecasting.
+4.2 Decision of what and how much to produce brings the problem of determining
+type(s) of product(s) to be produced or services to be provided. This requires an
+analysis of the market as well as examining the past data.
+14
+Who makes (or has made) such decisions in your practice organization? How
+are these decisions made?
+Volume and timing of production is a set of decisions related to the allocation of
+scarce resources. Every organization has limits on its resources (number and quality
+of key personnel, amount and sources of capital, available funds in cash, office space,
+land and buildings, materials and supplies, tools, equipment and apparatus, etc.).
+The issue is how to allocate these scarce (i.e., limited) resources to the best advantage
+of an organization.
+These allocation decisions, in general, are known as production plans in
+manufacturing firms and as activity plans in service organizations.
+What resources are scarce and subject to a production or an activity plan to
+exercise a tight control for their usage? Name a few of these limited
+resources. What are the current limits? What determines these limits?
+What are the main concerns (like customer satisfaction, total cost, time losses,
+utilization rate, etc.) in allocating such resources? Is there any measurement
+of the extent to which these concerns are fulfilled? If yes, describe a few
+examples. If no, suggest some measures. Evaluate such existing (or
+proposed) measures.
+How are allocation plans made? Are they reviewed on some periodic basis?
+4.3 Inventory, in very general terms, is any value or resource accumulated and left idle
+for some reason. Material inventories of various classes may be held such as: raw
+materials, spare parts, supplies, purchased components, work-in-process or finished
+goods. Inventories may occur in service organizations too, in the form of material
+inventories for supplies or backlog of service load in progress (or being held for some
+reason).
+Inventory control policies are mainly classified as periodic review and continuous
+review control policies. Monitoring the inventory position after every transaction
+indicates a continuous review policy. In the periodic review policy, inventory level is
+observed at equally spaced points in time.
+Define major items of inventory by their functions. Explain reasons (uncertainty, seasonal fluctuations, cycle stocks,
+quantity discounts, pipeline effect, etc.) for holding these items. Justify any one of the items' inventory, stating what
+would happen (cost, time losses, faulty processing, transportation difficulties, etc.) if that inventory were not
+carried. Discuss the inventory control policies exercised in your practice organization for the major items you
+15
+specified above. How would you measure the performance in managing these inventories? Propose and compute
+the value(s) for at least one such measure.
+Is there a materials requirement planning (MRP) activity carried out in your
+practice organization? If yes, describe how it is performed. If no, state the
+reasons for not needing (or the impossibility for implementing) it; describe
+what could be gained if some form of MRP were implemented in your
+practice organization.
+4.4 Resource allocation (with regard to equipment, personnel, vehicles, tools, funds,
+materials, space, etc.) in the short term (on per-shift, daily, or weekly basis) at the
+operational level is carried out through detailed scheduling.
+Explain the detailed scheduling activities carried out in the firm. Are there
+any records of detailed schedules in the form of timetables, daily lists, charts,
+order forms or the like? If yes, provide an example and explain how it is
+prepared. If no, state the reasons of not needing (or the impossibility in
+realizing) any sort of a schedule. Take a suitable activity or area in your
+practice organization (department, division, hall, or functional unit) for
+which a detailed schedule exists or an allocation of some resource can be
+observed for a short term. Apply an appropriate performance measure on the
+implementation of a predetermined detailed schedule or (if no
+predetermined schedule exists) the allocation of a resource as it is realized.
+4.5 A recent trend in manufacturing management that also started to find some
+implementation in services is the application of Just-in-Time (JIT) philosophy. The
+objective of JIT is to work towards reducing organizational slacks carried to assure a
+smooth operation (for instance, large inventories, extra allowances for scraps, buffers
+among machinery, promising extended delivery dates, excessive supervision,
+redundancies in record keeping, etc.) ideally to a zero level in all activities. This is to
+be achieved in gradual steps through the process of continuous improvement.
+Are there organized and focused studies for the purpose of reducing such
+undesired “slack”? If yes, describe an example. If no, state an example of
+allowance or slack you have observed, that is used in the organization to
+assure safe (uninterrupted) operation. What do you think has caused the
+need for such an assurance?
+16
+5. QUALITY PLANNING AND CONTROL SYSTEM
+5.1 There is little agreement on what constitutes quality. Most people conceive quality as
+an attribute of a product or service that can be improved. However, quality is not
+only associated with products and services, but also includes processes, environment
+and people. It is an ever-changing state; what is considered quality today may not be
+enough to be considered quality tomorrow. Hence, quality can be defined as a
+dynamic state associated with products, services, processes, environments and
+people, that meets or exceeds expectations.
+The following is just a few other definitions proposed for “quality”:
+ Quality is fitness for use.
+ Quality is conformance to requirements.
+ Quality is the total composite product and service characteristics of
+marketing, engineering, manufacture and maintenance through which the
+product and service in use will meet the expectations of customers.
+ Quality is the totality of features and characteristics of a product or service
+that bear on its ability to satisfy stated or implied needs.
+Hence, a high quality product or service should well meet expectations of all
+involved customers or stakeholders.
+Quality control is exercised at all four stages of a product/service life cycle:
+a) Product/service design stage (innovation, robust design, tolerance design)
+b) Manufacturing/service process design stage (innovation, robust design,
+tolerance design)
+c) Manufacturing/service delivery stage (detecting problems and correcting them,
+compensating for known problems, screening undesirable products.)
+d) Usage stage (warranty and repair).
+Choose a product/service and explain how the organization defines quality of it. How are
+customer requirements translated into product or service specifications (or characteristics)?
+Provide examples. Also describe the quality control activities that take place throughout the
+life cycle of that product/service.
+5.2 Recent trends in quality management focus on quality assurance that emphasizes the preventive
+aspects of quality management. Quality is viewed as the job of everyone, and continuous improvement
+17
+towards the eventual goal of meeting and exceeding customer requirements is a basic principle of the
+modern quality management approach.
+Discuss at least three quality assurance activities taking place in the firm that
+are proactive (preventive) rather than reactive (detection and correction
+oriented).
+Describe and discuss how responsibility of quality is shared in the firm
+(quality organization).
+6. MANAGEMENT INFORMATION SYSTEM
+6.1 Every organization has an information system that is designed to meet its information requirements.
+Data are recorded, classified, summarized and processed to produce information in this system.
+Management information system should support decision making at three different levels:
+a) Strategic level decisions (e.g. plant expansion, determination of product lines, mergers,
+diversification, capital expenditures, etc.).
+b) Tactical level - implementation of plans (e.g. allocation of resources to different
+products, formulation of budgets, funds flow analysis, plant layout decisions,
+personnel problems).
+c) Operational level, day-to-day routine operations (e.g. receiving and shipping
+operations, scheduling, inventory control and allocating workers to jobs).
+Specify the decision makers (individual or group, their positions within the organizational
+structure) and the related subject of decision making with regard to one decision making
+activity in each of these decision levels.
+6.2 Computers are widely used in processing data and providing information for
+managerial decision making. They are also employed in organization to improve
+productivity and provide better utilization of resources. The physical units making
+up a computer system are called hardware.
+Identify the computer system (computer networks, stand-alone PC’s, workstations, main
+frames , etc) their types and approximate capacities in use and their spread (functions or
+departments with extensive or low computer support in their operations) in your practice
+organization. Take a particular division or department that has access to a computer (as a
+system, as connected to a network or as a stand-alone computing facility). Itemize types of
+data recorded and processed. Discuss the level of decision supported in light of section 6.1
+above. What are decided based on that specific data?
+18
+6.3 The effectiveness of a computer and the ease with which it can be utilized depends
+upon a number of factors such as the mode of operation of the computer system,
+availability of high level language compilers, application programs (utility programs,
+file handling software, database management system software) and so on.
+Identify the software used in the firm. Name a few application programs available in the organization
+for enterprise wide application (Enterprise Resource Planning (ERP), reservation system, stock
+keeping, accounting etc.) except standard office programs (word processors, spreadsheets,
+presentation organizers). Discuss the level of decision supported in light of section 6.1. Give an
+example of what is performed based on that specified software.
+7. WORK STUDY
+7.1 Work Study is a term used for those techniques, particularly method study and work
+measurement, that are used in the examination of human work in all its context and
+lead systematically to the investigation of all the factors which affect the efficiency
+and economy of the situation being reviewed in order to bring improvement.
+Method study is the systematic recording and critical examination of existing and
+proposed ways of doing work as a means of developing and implementing easier and
+more effective methods and reducing costs.
+Work measurement is the application of techniques designed to determine the time
+needed by a qualified worker to carry out a specified job at a given performance level.
+Work Study is mostly used to increase production using a given quantity of resources with little or no
+further capital investment. In other words, it deals with increasing the productivity. Through the
+tools and techniques of work study, basic standards and operation routings are developed that will
+improve planning and control.
+Apply one of the work measurement techniques (stopwatch, predetermined time standards or work sampling, etc.)
+to either
+a) a member of the office staff, or
+b) an assembly operator, or
+c) one or more machine operators, or
+d) any routine manual task operator
+and evaluate the results. Apply method study to define more effective
+methods.
+19
+7.2 Jobs within an organization are not all alike. Some are more demanding physically,
+some require unusual mental skill; some must be performed under unfavorable
+working conditions. 'Job Evaluation' is a systematic procedure for establishing a
+hierarchy of jobs. A 'Job Description' gives a brief definition of the job and presents
+a detailed account of the job content based on the results of job analysis. A 'Job
+Specification' describes the skills involved in the job and other mental, physical,
+educational requirements that the job demands from the worker.
+Job Evaluation studies are used in classifying workers and staff into 'wage groups'.
+Since the requirements of each job are described in detail, the findings are also taken
+into consideration in the execution of employment and training activities of the firm.
+Has there been any 'Job Evaluation' study in the firm? If so, discuss briefly the method and the current
+implementation of the findings of the study. If not, explain how the wage differentiation among the personnel is
+determined.
+8. CONCLUSION
+8.1 The following questions are prepared to obtain your own assessment of the summer
+practice. You can add as many ideas as you wish besides answering these questions.
+You should not, however, ignore any question. Your answers, additional ideas and
+suggestions will guide the reorganization of this manual in the future.
+Is the procedure you have followed in this summer practice sufficient in its scope, method and general approach? If
+not, identify the drawbacks. State your suggestions for an improved procedure. If you found it sufficient, state
+what you enjoyed most about it. What was the most difficult part in your study of a potential IE problem?
+If you had another four weeks in the same firm, what would you be occupied
+with and why?
+What do you expect to learn in your future training as an industrial engineer
+that will help improve your understanding of production systems? How can
+you further develop your capability of handling problems of these systems?
+Drawing on your experience of this practice, discuss the differences between
+industrial engineering and other engineering disciplines with respect to their
+responsibilities and ways of approaching their duties in the production
+environment.
+20
+If industrial engineers are employed by the firm, what are the areas they
+work in? If no industrial engineer is employed, what activities (if any) do you
+think are suitable for IEs in your practice organization? Discuss top
+management's impression and attitudes towards industrial engineering
+functions and activities.
+8.2 YYoouu aarer ere rqeuqireudi rteo dfi llt oou ft itlhle o quute sthtioen noanirlein thea qt wuiells bteio snennta tior yeo ou nv iath ee-m ail
+at the beginning of the semester. Otherwise, your summer practice report will
+website www.ie.metu.edu.tr/~sp. The questionnaire
+be considered as incomplete.
+should be filled out until the submission date of your
+summer practice report. Otherwise your report will be
+considered as incomplete.
+21
+APPENDIX A
+A NOTE ON THE DEFINITION AND FORMULATION OF
+INDUSTRIAL ENGINEERING PROBLEMS
+You are required to identify, define and formulate an industrial engineering
+problem. The problem may be related to one or more areas of interest in industrial
+engineering. The problem has to be examined with its specifics for your practice
+organization.
+You are advised to take the view outlined below (an excerpt from “Notes on
+System Design” by Prof. Dr. Çağlar Güven, February 1998) in identifying and
+describing a problem:
+Engineers are expected to ‘solve problems’.. To see what this means we can adopt a simplified
+view: a problem is something that needs a solution but does not have one. At first sight the
+difficulty seems to be finding a solution but as far as IEs are concerned, often that’s not even half
+the difficulty. Forget about well-defined textbook problems and solutions. Real-life problems have
+a bothersome habit: they don’t come singly. They stick firmly together and often we cannot tell one
+from the other. Instead we observe a tangled web, and as we do so, we have to try hard to catch
+glimpses of individual problems. The usual inclination is to forget about the other problems in the
+web once we believe we have identified one. We shall say more of this later; for the moment let me
+put it like this: it may very well be better to spend more of your time trying to identify and
+structure issues than trying to solve problems. In any given problem situation there will always be
+more than one issue involved. Consider for example, the design of a fast-food outlet: Forecasting
+the demand for food ingredients, scheduling the staff, pricing the foods, capacity planning,
+planning daily purchases, selecting a location, training the staff and several other aspects similar to
+these are the issues you have to consider. Which ones are you going to address? Structuring an
+issue means studying and selecting one for further analysis using models within a systemic
+framework. The reason why structuring issues is at least as important as solving problems can be
+explained as follows: We do not really know what we mean by a solution. When we talk about a
+problem we imply that there exists a set of conditions that is less than satisfactory and needs
+improvement. The nature of the improvement however is often not clear at all and the dynamics of
+the improvement process is equally complicated. The end result is obtained one way or another
+and is likely to be the product of the joint effort of many people. One might say then that
+suggesting questions can be more important, potentially more originative, than suggesting
+answers. In this way issues will be unfolded that might otherwise have gone unnoticed. It all
+comes to this: an IE will perhaps be most useful if she can point out meaningful problem areas and
+if she can structure them; the rest will be collectively taken care of by the organization, one way or
+22
+another. But even so, this does not mean that you can forget about looking for solutions altogether;
+for you see, looking for solutions is in fact part of looking for problems.
+1. Identification and Definition of the Problem
+Various industrial engineering problems exist in a production environment as
+interwoven with each other. Deficiencies occurring in production planning may be
+the consequence of ill-structured forecasting done by the marketing department.
+The problems encountered, say in raw material inventory holding, may be the
+result of economic crisis experienced in the sectors providing the raw material.
+The low utilization of machinery may be due to high level of absenteeism among
+workers for which the major reason could be poor industrial relations. Deficiencies
+in production planning, problems in raw material inventory holding, and low
+utilization of machinery are all symptoms of the problems.
+Problems are identified by observing such symptoms through a careful analysis of
+the existing system. A trouble-shooting exercise is essential in order to define an
+industrial engineering problem. Possible causes of the symptoms should be
+studied. Observations of symptoms should be validated by objective
+measurements (e.g.: low utilization of machinery should be proven by data
+collected on utilization rates). This analysis can be supported by some of the
+questions in this document. The guidance and proposals of the authorities in the
+firm may also help in the identification of an industrial engineering problem. In
+studying the problem situation you may use the following analysis tools:
+ cause-effect diagrams (fish bone diagrams)
+ pareto analysis
+ relations diagram
+ logic tree analyses
+ flowcharts
+ check sheets
+ rich pictures
+ brainstorming
+ run charts
+ influence diagrams
+23
+ multivoting
+ nominal group technique
+ stratification
+ affinity diagrams
+ precedence diagrams
+2. Formulation of the Problem
+At the end of the first step, you should have identified the virtues or benefits,
+pitfalls, shortcomings or disadvantages of existing practices pinpointing functions
+that are partially or completely lacking. Such an evaluation forms the basis for the
+redesign and improvement of the existing system.
+A clear formulation of a problem starts with:
+ an exact description of the decision maker (owner of the problem),
+ the goal or the objective (direction of and satisfactory amount of improvement)
+of the decision maker,
+ performance criteria (to be used in evaluating goodness of a solution in
+achieving the objective),
+ an identification of alternative courses of action (to achieve the objectives), and
+ a clear recognition of the limitations, restrictions and requirements of the
+system. An analysis of the interactions of the problem with various subsystems
+in the firm can also be carried out during this phase.
+You are encouraged in this formulation stage to think and comment about specific
+modelling approaches appropriate for the problem you defined.
+24
+APPENDIX B
+A NOTE ON REPORTING ABOUT A PARTICIPATED
+PROJECT DURING THE SUMMER PRACTICE
+You may have taken a role within the scope of industrial engineering on an
+ongoing project in your practice organization. Instead of identifying and
+formulating a separate problem, you may report on this project and your specific
+part in it. However, you are required to verify that the project is in a relevant area
+of interest with regard to industrial engineering and that a well identified problem
+had initiated the project work.
+If the project you participated in is completed, you are required to submit a report
+consisting of at least the following sections:
+ Introduction (Products/Services/Manufacturing/Service Provision processes
+addressed in the project, context of the problem, composition of the project
+team)
+ Problem statement (Description of what issue was tried to be
+solved/improved/implemented, its relevance as an IE problem)
+ Approach Taken (what stages were initially planned for the project, why and
+how were they modified during the work on the project, your role specific
+within the approach)
+ Summary of Work Done (a sample list of data gathered or facts collected and
+analyzed, methods used in these, typical results of calculations/experiments/
+estimations etc.)
+ Conclusions and Recommendations (Outcomes of the project, Suggestions
+made, initiated actions, extensions of the results, your evaluation of the
+outcomes)
+If the project you participated in was still in progress at the end of your practice
+period, you are required to submit a report consisting of at least the following
+sections:
+ Introduction (Products/Services/Manufacturing/Service Provision processes
+addressed in the project, context of the problem, composition of the project
+team)
+25
+ Problem statement (Description of what issue was tried to be
+solved/improved/implemented, its relevance as an IE problem)
+ Approach Taken (what stages were initially planned for the project, your
+specific role within the approach)
+ Project Schedule (a project activity network or a Gantt chart)
+ Work Done To Date (a sample list of data gathered or facts collected and
+analyzed until the time you quit the organization, methods used in these,
+typical results of calculations/experiments/ estimations etc. done that far in
+time)
+ Expectations of the Outcomes (Prospective benefits, your evaluation of the
+outcomes)
+26
+BIBLIOGRAPHY
+P E Hicks, “Industrial Engineering and Management: A New Perspective”, 2nd
+Edition, McGraw Hill, 1997
+S Nahmias, “Production and Operations Analysis”, 2nd Edition, IRWIN, 1993
+D Sipper and R L Bulfin, “Production Planning, Control, and Integration”, McGraw Hill, 1997
+J B Dilworth, “Production and Operations Management Manufacturing and
+Services”, 5th Edition, McGraw Hill, 1993
+R M Barnes, “Motion and Time Study design and measurement of work”, 7th
+Edition, Wiley and Sons, 1980
+27
+
+General Information
+ 
+Important information for students who will do their SP this summer:
+
+- Summer internships must be done by physically attending the work place.
+
+- For IE 400, project based internships are allowed. Project based internship should be at least 6 weeks. Before the internship, you need to submit a proposal to the SP Committee which covers the content of the internship in detail. If the proposal is approved you can do the project based internship.
+
+- Internships in public institutions: All public institutions in Turkey (Kamu kurumları) accept internship applications through a centralized system. Please consult this page  for further information. 
+
+- Within the Erasmus program, it is possible to do an internship within the scope of Student Internship mobility. You may generally prefer an internship in Europe for a minimum of 3 months and a maximum of 12 months. For detailed information, please check the Erasmus office website. If the summer internships completed within the scope of this program are made for a short term (3 months), it can only be counted as one of IE300 and IE400 internship. https://sp-ie.metu.edu.tr/en/general-information
+
+ 
+
+SGK Insurance Application System 
+
+SGK Insurance Applications will be followed via METU OpenCourseWare platform (OCW). The insurance application module in the OCW system is now open. All 1st, 2nd, 3rd, and 4th year students are registered to the “IE300/400 Summer Internship” course by default. Please note the following:
+
+1. The “IE300/400 Summer Internship” OCW course is created only for the practical purpose of collecting the insurance application information of students. This is not a real “course”. Note that when your internship is over, you still need to get registered for the IE300 or IE400 courses in the Fall semester (or summer school if you are planning to).
+
+2. If you are not planning to do an SP this year, just ignore all the instructions below. You do not have to do anything about the OCW system.
+
+Students who will do a SP this summer should carefully read the information below about “When to apply” and “How to apply” for the SGK insurance.
+
+ 
+
+When to apply for the SGK insurance
+
+The ideal moment to apply for the insurance using the OCW system is 2-3 weeks before the beginning of your internship. To make the procedure work efficiently, let us follow these ground rules:
+
+1. SGK insurance requests are processed by Rektörlük. As an internship committee our role is to make a pre-check the required info. and then deliver the requests to Rektörlük .
+
+2. On the Monday morning of each week, the insurance applications of students beginning their internships within two weeks will be sent to Rektörlük. For example, the list sent on June 30, Monday covers the students with SP beginning dates between July 1 - July 11. 
+
+2. For your SGK document to be issued smoothly and on time, you should leave a safety margin of 1 whole week (Monday to Friday) between your application and the beginning of your SP. For example, if your internship begins in the week of July 14-18, then the ideal moment to apply for the insurance is within the week June 30- July 4, so that your application is sent to Rektörlük on Monday July 7 and your document is issued on time. 
+
+3. Please do not apply for the insurance too early (for instance, don’t apply 2 months before!). This is for two reasons:
+
+Even if you apply early, Rektörlük does not process insurance applications that start in more than two weeks. 
+There may often be changes in the SP plans of students, such as modifications in the SP beginning dates, cancellation of the SPs, etc. If you have already sent an application, this causes extra work for everyone.
+4. Please do not apply for the insurance too late, neither (for instance, don’t apply 5 days before your internship starts!) This is very likely to lead to delays in the preparation of your SGK document and causes extra work for everyone. Remember that the ideal time to apply is 2-3 weeks before the beginning of your SP. Please see also Rule 2 above to see when your application will be processed.
+
+ 
+
+How to apply for the SGK insurance
+
+1. First, make sure that you already read the section “When to apply for the SGK insurance” above.
+
+2. To apply for the insurance, first login to https://ocw.metu.edu.tr/ with your usual student account. You should normally be already registered the IE 300/400 course, which you should be able to see under “My courses”. If you fail to see IE 300/400, please send an email to the SP committee (“ie-staj at metu edu tr” ).
+
+3. Click on IE 300/400 and you will see a list named “Required Information” in the course menu.
+
+4. Click on “SGK Insurance Application”, which takes you to a questionnaire where you must enter your identity and company information. Do not forget to click on “Submit Questionnaire” when you finish.
+
+5. Upload your "Declaration Form for students with/without family health insurance" form to the OCW system. The declaration form can be found at this link.
+
+6. If you have successfully completed all these steps, then your application is done. You will not receive any notification or confirmation when your application is sent to Rektörlük, and you will still be able to view your application on the OCW system. This is normal since we use the “questionnaire” structure to collect your data and answers remain accessible.
+
+7. Your SGK insurance document will be available on e-devlet typically 2-3 workdays before the beginning of your SP. You can access your document on e-devlet by following these steps:
+
+First, login to https://www.turkiye.gov.tr/ . Type "işe giriş" in the search field. Select "4A İşe Giriş Çıkış Bildirgesi(Sosyal Güvenlik Kurumu)" among the search results. Find the line corresponding to your current SP and access your SGK document by clicking on "Belge oluştur". Note that we do not send you your SGK document by email, as it is available on e-devlet.
+
+ 
+
+Emergency applications: If for some reason your internship starts soon (there are no Mondays between the current date and your SP beginning date) and you were not able to apply to the OCW system on time, please fill in the excel file provided here  with your internship information in soft format. Email the document to “ie-staj at metu edu tr” with the subject line :
+
+SGK basvurusu: Name Surname dd.mm.2025
+
+providing your name and the day and month of the beginning date of your SP.  Remember that you are normally supposed to use the OCW platform and you should not resort to this emergency solution unless you have a very valid reason !!!
+
+If something goes wrong...
+
+1. What to do if you notice you made a mistake in your “SGK Insurance Application” questionnaire:
+
+Calculate if your application has already been sent to Rektörlük or not: Simply check Rule 2 in “When to apply” above.
+If your application has not been sent to Rektörlük yet: Enter a new questionnaire with the correct information. Please do not contact us. The most recently filled version of the questionnaire will be taken into consideration and the older versions will be ignored.
+If your application has already been sent to Rektörlük: Contact the SP committee,“ie-staj at metu edu tr”.
+2. What to do if your internship is cancelled: Contact the SP committee, “ie-staj at metu edu tr”.
+
+3. What to do if your internship is approaching and your SGK document is not ready yet: Rektörlük issues SGK documents typically 2-3 workdays before the beginning of the SP, and they become immediately available on e-devlet. If there are still at least 2 workdays until your SP beginning date, this is normal, please wait. If your SP begins the next workday and your SGK document is still not accessible, contact the SP Committee in the morning (e.g. contact on Friday morning if your internship begins on Monday)
+
+Voluntary Internships
+
+If you intend to do a voluntary internship in the summer, you can also get SGK insurance. Please note that the voluntary internships are not mandatory and not asked by the department. Students may prefer to do secondary internships voluntarily to support their professional development with the agreement with the companies.  So you don’t need to take a letter from the committee for the voluntary internships as the entire process is between the student and the company. But we provide SGK insurance to support our students up to one month for one company.
+
+Please follow the same procedure to form a new SGK application using OCW. However, please make sure to send your second application once the SGK document of your first internship is already issued (so that your second application does not overwrite the first one). In order to avoid any trouble with the SGK insurance, Rektörlük recommends to leave at least one blank day between two SPs. 
+
+Foreign students are NOT allowed to do voluntary internships in Turkey. It is required to have a work permit to do a voluntary internships.
+
+Instructions for Paid Summer Practices
+
+If you did your SP in a private company in Turkey and you received payment during your SP, you need to do the following as soon as you finish your SP and you have received all of your payments. (If you did not receive any payment during your SP, or if you did your SP in a public institution "kamu kurumu", please ignore this section and do not do anything.)
+
+1. Login to https://ocw.metu.edu.tr/ with your usual student account.
+
+2. Fill in the "Paid SP form questionnaire" under the IE300/400 course. Please fill in all entries carefully. Incomplete submissions with missing entries are immediately rejected by Rektörlük. You may contact the HR department of the company in order to obtain the information regarding the company. If you notice that you made a mistake when filling in the form, you can submit a new one and the latest submission will be taken into account.
+
+3. Download, print, and sign the Paid Summer Practice Form . Upload the scanned copy of the signed form (in pdf format) under the assignment "İşsizlik Fonu Katkısı Bilgi Formu (Paid SP Form)". 
+
+4. Upload the bank receipt (in pdf format) showing that you received payment from the company under the assignment "Stajda ücret ödendiğine dair banka dekontu (Bank receipt for paid SPs)".
+
+Steps to Follow
+ 
+Before Summer Practice
+
+Examine the Summer Practice Website as early as you can, as much as you can.
+Read the Summer Practice Manual which can be reached from our SP website under the “Documents/Forms” tab. It will be helpful to decide whether the company will satisfy the requirements that you may answer the questions listed in the manual if you complete your internship in the company.
+Check the additional information related with paid insurance or SGK insurance paid by the school on our website.
+Find yourself a company for summer practice. You may
+    i. Check the list of companies contacted the department for summer practice students.
+    ii. Use your social skills, family, friends, and others to establish contacts.
+    iii.Examine the summer practice databases of earlier years.
+Some companies request a document (letter) explaining the aim of the internship, minimum duration of the internship and stating that the insurance for the summer practice will be paid by METU. You can find the SP Application Letter on our SP website (see Documents/Forms tab). You need to fill out the signed letters with the required information.
+Some companies may request an SP protocol (sözleşme) form. If you need one, please visit the SP website. Under the Documents/Forms tab, you can find a sample agreement form. After you fill out the agreement, you need to leave the form to Undergraduate Secretary Office. You can pick up the signed form in a week.
+Make sure that you carefully read the instructions for the insurance on our SP website. Please apply for your SGK insurance on time.
+You are ready. Go and start your summer work. 
+During Summer Practice
+
+Do attend the work with full concentration, be vigilant and observe what is going on, try to participate. You will write a detailed report soon. Don't forget that you can work at the same place next year for salary.
+Regularly take notes to help you in writing the final report.
+Prepare draft version of your report while conducting your practice. (Be prepared that you need to upload your report as soon as the new semesters starts.)
+You also need to have the "SP Evaluation Form" and “Employer Survey” (see Documents tab in SP website) filled out and signed by your SP supervisor.
+Your SP supervisor can send the “SP Evaluation Form" and “Employer Survey” to the Department Undergraduate Student Affairs by email in pdf format (to “sp-belge@metu.edu.tr”). The document can be signed traditionally or digitally. It is also possible to send the document to the Student Affairs by post in a closed envelope. 
+If you receive a payment during your SP, you need to fill in the "Paid SP Questionnaire" under the IE300/400 course at OCW. Download, print, and sign the Paid Summer Practice Form. Upload the scanned copy of the signed form (in pdf format) under the assignment "İşsizlik Fonu Katkısı Bilgi Formu (Paid SP Form)" at OCW. 
+Upload the bank receipt (in pdf format) showing that you received payment from the company under the assignment at OCW "Stajda ücret ödendiğine dair banka dekontu (Bank receipt for paid SPs)".
+After Summer Practice
+
+Prepare your report following the Summer Practice Manuel (see Documents tab in SP website).
+You need to register for IE 300, IE 400 during the registration period.
+SP reports will be collected via ODTUClass. The deadline will be announced via ODTUClass. This is a strict deadline, so please organize your time accordingly.
+The SP report should be prepared in pdf format.
+The faculty members evaluating the reports will be assigned. Remember that your reports will be checked for plagiarism and whether they are generated by AI tools before the reports are evaluated. 
+Evaluation Process
+
+Your SP report will be graded by the faculty members assigned to your report.
+In the last month of the semester: Reports that require corrections will be returned to the students.
+If your report is returned, you have 2-3 weeks to complete the requested corrections.
+When you are done with the corrections, return your report to the evaluating faculty via ODTUClass.
+Notes
+
+Make sure that company you have decided for summer practice satisfies the requirements of the Department.
+Make sure that you have written the report professionally.
+You may be asked to make corrections on your report. Do the corrections as requested if there is a need.
+Finding a summer practice location is never easy. Try to look for a good one as early as you can!!!
+
+SP Committee
+ 
+Esra Karasakal (Room 215)
+
+Telephone: +90 (312) 210 2278
+
+Cem İyigün (Room 331)
+
+Telephone: +90 (312) 210 2282
+
+Çiya Aydoğan (Room 214)
+
+Telephone: +90 (312) 210 4792
+
+Mehmet Sencer Zengin (Room 318)
+
+Telephone: +90 (312) 210 2269
+
+Özgür Ünverdi (Room 326)
+
+Telephone: +90 (312) 210 4687
+
+Buğra Öztürk (Room 325)
+
+Telephone: +90 (312) 210 2277
+
+Ömer Turan Şahinaslan (Room 136)
+
+Telephone: +90 (312) 210 4796
+
+Fax: +90 (312) 210 4786, E-Mail:  ie-staj@metu.edu.tr
+
+
+
