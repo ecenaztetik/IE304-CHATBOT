@@ -4,9 +4,11 @@ import google.generativeai as genai
 
 st.set_page_config(page_title="METU-IE SP Bot", page_icon="🎓")
 
-API_KEY = "AIzaSyCmQQoqP10kgQYBCt7s-QuNXiVp7JTZFew"
-genai.configure(api_key=API_KEY)
-
+try:
+    API_KEY = st.secrets["GOOGLE_API_KEY"]
+    genai.configure(api_key=API_KEY)
+except:
+    st.error("API Key not found in Secrets!")
 
 def load_data():
     try:
