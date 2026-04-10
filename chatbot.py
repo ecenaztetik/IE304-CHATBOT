@@ -1,6 +1,7 @@
 import streamlit as st
 from groq import groq
 
+
 st.set_page_config(page_title="METU-IE SP Bot", page_icon="🎓")
 
 # 1. GROQ API KEY'İ ÇEKİYORUZ
