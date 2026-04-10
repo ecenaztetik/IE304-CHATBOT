@@ -1,5 +1,5 @@
 import streamlit as st
-from groq import groq
+from groq import Groq
 
 
 st.set_page_config(page_title="METU-IE SP Bot", page_icon="🎓")
