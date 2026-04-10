@@ -41,7 +41,7 @@ Rules:
 
 # Gemini 1.5 Flash'ı (1 Milyon token kapasiteli) seçiyoruz
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
+    model_name="gemini-2.5-flash-lite",
     system_instruction=system_prompt
 )
 
