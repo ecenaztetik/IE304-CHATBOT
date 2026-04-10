@@ -65,7 +65,7 @@ if prompt := st.chat_input("Ask about IE 300/400 requirements..."):
 
             # 4. LLAMA MODELİNE İSTEK ATIYORUZ
             response = client.chat.completions.create(
-                model="llama-3.1-8b-instant",
+                model="mixtral-8x7b-32768",
                 messages=api_messages,
                 temperature=0.1 # Staj kuralları net olmalı, halüsinasyonu engellemek için düşürdük.
             )
