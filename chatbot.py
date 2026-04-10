@@ -65,10 +65,10 @@ if prompt := st.chat_input("Ask about IE 300/400 requirements..."):
 
             # 4. LLAMA MODELİNE İSTEK ATIYORUZ
             response = client.chat.completions.create(
-                model="mixtral-8x7b-32768",
+                model="mixtral-8x7b-32768",  # 32k token limit
                 messages=api_messages,
-                temperature=0.1 # Staj kuralları net olmalı, halüsinasyonu engellemek için düşürdük.
-            )
+                temperature=0.1
+)
             
             bot_reply = response.choices[0].message.content
             st.markdown(bot_reply)
