@@ -9,9 +9,8 @@ genai.configure(api_key=API_KEY)
 
 
 def load_data():
-    path = r"C:\Users\user\Desktop\data.txt"
     try:
-        with open(path, "r", encoding="utf-8") as f:
+        with open("data.txt", "r", encoding="utf-8") as f:
             return f.read()
     except FileNotFoundError:
         st.error("Knowledge base file (data.txt) not found on Desktop!")
