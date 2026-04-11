@@ -1,64 +1,125 @@
 import streamlit as st
 import google.generativeai as genai
+import faiss
+import numpy as np
+from sentence_transformers import SentenceTransformer
 
 st.set_page_config(page_title="METU-IE SP Bot", page_icon="🎓")
 
+#API
 try:
-    API_KEY = st.secrets["GOOGLE_API_KEY"]
-    genai.configure(api_key=API_KEY)
+    genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 except:
-    st.error("Google API Key bulunamadı! Secrets kısmını kontrol et.")
-def load_data():
-    try:
-        with open("data.txt", "r", encoding="utf-8") as f:
-            return f.read()
-    except FileNotFoundError:
-        st.error("data.txt dosyası bulunamadı!")
-        return ""
+    st.error("API key bulunamadı")
 
-context = load_data()
+#LOAD DATA
+@st.cache_data
+def load_text():
+    with open("data.txt", "r", encoding="utf-8") as f:
+        return f.read()
 
-st.title("METU-IE Summer Practice Consultant")
-st.markdown("Providing reliable information based on official procedures.")
+#CHUNKING
+def chunk_text(text, size=300):
+    words = text.split()
+    return [" ".join(words[i:i+size]) for i in range(0, len(words), size)]
 
-system_prompt = f"""
-You are a professional METU Industrial Engineering Virtual Consultant. 
-Answer the question ONLY using the context provided below:
----
-{context}
----
+#EMBEDDING
+@st.cache_resource
+def load_embedder():
+    return SentenceTransformer("all-MiniLM-L6-v2")
+
+@st.cache_resource
+def build_index(chunks):
+    model = load_embedder()
+    embeddings = model.encode(chunks)
+
+    index = faiss.IndexFlatL2(embeddings.shape[1])
+    index.add(np.array(embeddings))
+
+    return index, embeddings
+
+#RETRIEVE
+def retrieve(query, chunks, index, k=3):
+    model = load_embedder()
+    q_emb = model.encode([query])
+
+    _, idx = index.search(np.array(q_emb), k)
+    return [chunks[i] for i in idx[0]]
+
+#MODEL
+system_prompt = """
+You are a METU Industrial Engineering Summer Practice assistant.
+
 Rules:
-1. If the answer is not in context, say: 'Your prompt is out of the scope of current SP procedures. I can only provide information based on official METU-IE procedures.'
-2. Answer in English. 
-3. Strictly decline out-of-scope questions.
-4. Be user friendly.
+- Answer ONLY using given context
+- If not in context, say:
+  "Your question is out of scope of METU-IE Summer Practice procedures."
+- Be clear and helpful
+- Answer in English
 """
+
 model = genai.GenerativeModel(
     model_name="gemini-2.5-flash-lite",
-    system_instruction=system_prompt
+    system_instruction=system_prompt,
+    generation_config={
+        "max_output_tokens": 250,
+        "temperature": 0.2
+    }
 )
+
+#INIT
+text = load_text()
+chunks = chunk_text(text)
+index, _ = build_index(chunks)
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-if "chat_session" not in st.session_state:
-    st.session_state.chat_session = model.start_chat(history=[])
+#UI-
+st.title("METU-IE Summer Practice Chatbot")
 
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.write(msg["content"])
 
-if prompt := st.chat_input("Ask about IE 300/400 requirements..."):
+#CHAT
+if prompt := st.chat_input("Ask your question..."):
 
     st.session_state.messages.append({"role": "user", "content": prompt})
+
     with st.chat_message("user"):
-        st.markdown(prompt)
+        st.write(prompt)
 
+    #RAG
+    top_chunks = retrieve(prompt, chunks, index)
+    context = "\n\n".join(top_chunks)
 
+    #SHORT MEMORY DUE TO NOT EXCEEDING QUOTA
+    history = st.session_state.messages[-3:]
+
+    #PROMPT
+    final_prompt = f"""
+Context:
+{context}
+
+Conversation:
+{history}
+
+Question:
+{prompt}
+"""
+
+    #MODEL
     with st.chat_message("assistant"):
         try:
-            response = st.session_state.chat_session.send_message(prompt)
-            st.markdown(response.text)
-            st.session_state.messages.append({"role": "assistant", "content": response.text})
+            response = model.generate_content(final_prompt)
+            answer = response.text
+
+            st.write(answer)
+
+            st.session_state.messages.append(
+                {"role": "assistant", "content": answer}
+            )
+
         except Exception as e:
-            st.error(f"Bir hata oluştu: {e}")
+            st.error("Error occurred")
