@@ -4,7 +4,7 @@
 
 IE 300 SUMMER PRACTICE
 Introductory Session
-2025-2026
+
 Summer Practice Committee
 2
 Prof. Dr. Esra Karasakal
@@ -70,7 +70,7 @@ If you attend the summer school for some courses, your summer practice period sh
 not overlap with the summer school.
 Minimum practice is 20 workdays (4 weeks)
 If you are in graduation status and have completed all your course work and then you
-can conduct both IE 300 and IE 400 in succession in Summer 2025.
+can conduct both IE 300 and IE 400 in succession in Summer.
 1. Registration for IE 300 
 After the summer practice is completed, you must register for IE 300 in the immediate academic term.
 Summer practice reports are due within the first 4 weeks of the registered academic term 
@@ -786,7 +786,7 @@ Services”, 5th Edition, McGraw Hill, 1993
 
 IE 400 Summer Practice
 Introductory Session
-2025-2026
+
 Summer Practice Committee
 2
 Prof. Dr. Cem İyigün
@@ -2913,7 +2913,7 @@ First, login to https://www.turkiye.gov.tr/ . Type "işe giriş" in the search f
 
 Emergency applications: If for some reason your internship starts soon (there are no Mondays between the current date and your SP beginning date) and you were not able to apply to the OCW system on time, please fill in the excel file provided here  with your internship information in soft format. Email the document to “ie-staj at metu edu tr” with the subject line :
 
-SGK basvurusu: Name Surname dd.mm.2025
+SGK basvurusu: Name Surname dd.mm.currentyear
 
 providing your name and the day and month of the beginning date of your SP.  Remember that you are normally supposed to use the OCW platform and you should not resort to this emergency solution unless you have a very valid reason !!!
 
