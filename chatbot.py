@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-st.set_page_config(page_title="METU-IE SP Bot", page_icon="🎓")
+st.set_page_config(page_title="METU-IE SP Bot", page_icon="🎓") 
 
 # --- CSS ---
 st.markdown("""
