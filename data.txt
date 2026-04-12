@@ -8,108 +8,75 @@ Introductory Session
 Summer Practice Committee
 2
 Prof. Dr. Esra Karasakal
-
+
 Prof. Dr. Cem İyigün
-
+
 Çiya Aydoğan
-
+
 Buğra Öztürk
-
+
 Ömer Turan Şahinaslan
-
+
 Özgür Ünverdi
-
+
 Mehmet Sencer Zengin
-
+
 Contact Info
-3
+
 Web page: http://sp.ie.metu.edu.tr
-
+
 Contact address: ie-staj@metu.edu.tr
-
+
 (includes all committee members)
-
+
 Prerequisites for IE 300
-4
-IE 102 +
-
-IE 251, IE 265, IE 241, OHS 101 (fall semester
-
-courses) +
-One out of {IE 266, IE252} (spring semester
-
-courses).
-If any one of these prerequisite courses is not
-
-completed with a grade ≥ DD, IE300 summer
-practice cannot be conducted.
-If you are in probation in the Fall semester, you
-
-cannot take the IE300 course even if you
+
+IE 102 + IE 251, IE 265, IE 241, OHS 101 (fall semester courses) +
+One out of {IE 266, IE252} (spring semester courses).
+If any one of these prerequisite courses is not completed with a grade ≥ DD, IE300 summer
+practice cannot be conducted. If you are in probation in the Fall semester, you cannot take the IE300 course even if you
 successfully finished your SP.
-IE 300
-5
-IE 300 is a must course which is non-credit. Your grade should
-
-be S (satisfactory) for graduation.
-It is integral and complementary to the IE curriculum.
-
-You gain your first experience of your professional life to come.
-
+
+IE 300 is a must course which is non-credit. Your grade should be S (satisfactory) for graduation.
+It is integral and complementary to the IE curriculum. You gain your first experience of your professional life to come.
+
 For the first time
-
-you get to know a company with all her aspects
-
-you get involved in the decision problems of a company
-
-you get the chance of observing:
-
-whole supply chain the company belongs to
-◼
-manufacturing processes; sustainability concerns of the company
-◼
-cost accounting issues
-◼
-use of operations research methods
-◼
-use of statistical analysis and how they make use of big data
-◼
-team work, IEs roles and jobs
-◼
+
+-you get to know a company with all her aspects
+
+-you get involved in the decision problems of a company
+
+-you get the chance of observing:
+
+-whole supply chain the company belongs to
+
+-manufacturing processes; sustainability concerns of the company
+
+-cost accounting issues
+
+-use of operations research methods
+
+-use of statistical analysis and how they make use of big data
+
+-team work, IEs roles and jobs
+
 IE 300 – when to conduct
-6
+
 You will conduct IE 300 summer practice in
-
-Summer 2025
+Summer
 Available time interval (~3 months):
-
-[June 25 – September 26]
-◼
-If you attend the summer school for some
-
-courses, your summer practice period should
+
+If you attend the summer school for some courses, your summer practice period should
 not overlap with the summer school.
 Minimum practice is 20 workdays (4 weeks)
-
-If you are in graduation status and have
-
-completed all your course work and then you
-can conduct both IE 300 and IE 400 in
-succession in Summer 2025.
-Registration for IE 300
-7
-After the summer practice is
-
-completed, you must register for IE 300
-in the immediate academic term.
-Summer practice reports are due within
-
-the first 4 weeks of the registered
-academic term 
-Due date: Oct. 24, 2025.
-
+If you are in graduation status and have completed all your course work and then you
+can conduct both IE 300 and IE 400 in succession in Summer 2025.
+1. Registration for IE 300 
+After the summer practice is completed, you must register for IE 300 in the immediate academic term.
+Summer practice reports are due within the first 4 weeks of the registered academic term 
+
 Steps to follow in IE 300:
-8
+
 1. Search for
 3. Apply to the
 alternative companies
@@ -133,129 +100,129 @@ Steps to follow in IE 300:
 9
 1. Search for alternative companies (start as soon as possible)
 Manufacturing firms:
-
+
 Automotive
-
+
 Machine parts
-
+
 Electronics
-
+
 Furniture
-
+
 Textiles
-
+
 Consumer durables (refrigerator, washing machine,..)
-
+
 …
-
+
 Batch process industries are also accepted:
-
-◼ Steel
-◼ Paper mills
-◼ Pharmaceutical
-◼ Food and beverages
-◼ ….
+
+ Steel
+ Paper mills
+ Pharmaceutical
+ Food and beverages
+ ….
 Steps to follow in IE 300:
 10
 1. Search for alternative companies
 Manufacturing firms:
-
+
 No “continuous process” industries
-
+
 Cement, concrete
-◼
+
 Sugar
-◼
+
 Flour mill
-◼
+
 No “service industries”
-
+
 Hospitals
-
+
 Hotels
-
+
 Banking
-
+
 Research organizations
-
+
 Transportation, cargo carriers
-
+
 …
-
+
 Steps to follow in IE 300:
 11
 1. Search for alternative companies
 (cont’d)
 The department will also list some of the firms that
-
+
 you can apply for summer practice.
 It is your responsibility to check regularly the
-
+
 updates from the SP web site > SP Opportunities.
 For these SP opportunities:
-
+
 We will announce them as we get them from the
-
+
 companies. We follow either of the ways (based on the
 conditions of the company):
 Either we assign you or
-◼
+
 You contact these firms by yourself and make the
-◼
+
 arrangement by yourself.
 Steps to follow in IE 300:
 12
 1. Search for alternative companies
 (cont’d)
 Your summer practice is to be conducted totally in
-
+
 the factory (face-to-face).
 We DO NOT allow for a summer practice totally
-
+
 «online» or «hybrid» type.
 Steps to follow in IE 300:
 13
 2. Evaluate the company
 Check the IE 300 Manual from
-
+
 https://sp-ie.metu.edu.tr > Documents/Forms tab
 Check whether you can answer the questions without
-
+
 much difficulty.
 Also check the company under consideration in
-
+
 terms of:
 Number of employees? How many engineers, IE’s?
-
+
 Production capacity?
-
+
 Information system? ERP or..?
-
+
 Steps to follow in IE 300:
 14
 2. Evaluate the company (cont’d)
 We do not examine and confirm the suitability of
-
+
 your SP company in advance.
 Students determine whether their SP company is
-
+
 appropriate
 Discuss with the SP Committee if you are not sure or
-
+
 do not feel comfortable about the appropriateness
 of the candidate company for IE 300.
 Steps to follow in IE 300:
 15
 3. Apply to the company
 Some companies request a document (letter) explaining
-
+
 the aim of the SP, minimum duration of the SP and
 stating that the insurance for the SP will be paid by
 METU. You can find the SP Application Form on the SP
 website (Documents/Forms tab). You need to fill out the
 signed letters with the required information.
 Some companies may request an SP Protocol (sözleşme)
-
+
 form. If you need one, please visit the SP website. Under
 the Documents/Forms tab, you can find a sample
 protocol. After you fill out the protocol form, you need to
@@ -265,7 +232,7 @@ Steps to follow in IE 300:
 16
 4. Apply for the insurance
 When you are accepted for SP by the company and
-
+
 your decision with your SP company is CERTAIN, then
 apply for the insurance via METU OpenCourseWare
 platform (OCW), https://ocw.metu.edu.tr. Fill out
@@ -273,7 +240,7 @@ the questionnaire under “SGK Insurance
 Application” 2-3 weeks before the beginning of your
 SP.
 Also download a copy of the " Declaration Form for
-
+
 students with/without family health insurance’’ on
 the SP website (Documents/Forms tab), fill out the
 form, and upload it to OCW.
@@ -282,17 +249,17 @@ Steps to follow in IE 300:
 4. Apply for the insurance
 (cont’d)
 The compulsory insurance : iş kazası ve meslek
-
+
 hastalığı sigortası (due to the following law):
 Law # 5510: Sosyal Sigortalar ve Genel Sağlık Sigortası
-
+
 Kanunu
 You can get a copy of your document
-
+
 "Sigortalı İşe Başlama Belgesi» from e-devlet when it
 is ready before your SP starts
 Please visit SP website —> General Information
-
+
 Tab for the steps and details of applying to SGK
 insurance using METU OCW.
 Steps to follow in IE 300:
@@ -300,16 +267,16 @@ Steps to follow in IE 300:
 4. Apply for the insurance
 (cont’d)
 METU provides insuring for all SP students
-
+
 upon application.
 For compulsory summer practices, insurance is
-
+
 made for a period of [20 workdays - 3 months].
 Insurance is made for the summer practices abroad
-
+
 as well.
 The company can also insure you for the
-
+
 summer practice term, then you are not insured
 by the university, so you do not apply to us to get
 insured.
@@ -317,36 +284,36 @@ Steps to follow in IE 300:
 19
 5. Conduct your summer practice
 Download a copy of the "Evaluation Form and
-
+
 Employer Survey Form’’ under the
 Documents/Forms tab; they are together in two
 pages («Başarı Belgesi» and «İşveren Anketi»)
 Attach a recent photograph of yours to the first
-
+
 page.
 The company should fill out these forms at the
-
+
 end of your summer practice and then the
 company should e-mail to sp-belge@metu.edu.tr.
 Steps to follow in IE 300:
 20
 6. Submit your report
 You are required to submit (upload @odtuclass)
-
+
 your summer practice report and the questionnaire
 at the beginning of the following semester till the
 announced due date.
 The report is written based on the IE 300 manual.
-
+
 You should answer all of the questions in the
-
+
 manual.
 In some questions (e.g. accounting, finance), you
-
+
 should provide information about the method used at
 least, if you are not provided with sufficient data.
 For each question, you should provide sufficient
-
+
 explanation and analysis; giving a figure/table only is
 not accepted.
 Steps to follow in IE 300:
@@ -354,21 +321,21 @@ Steps to follow in IE 300:
 6. Submit your report
 (cont’d)
 Before answering a question, you should read the
-
+
 explanation in the question, and answer accordingly based
 on the explanation (e.g. Types of layout).
 You can start writing your report during the practice.
-
+
 You can use "google grammarly" to correct the report before
-
+
 you submit it.
 You submit the soft copy of your report (pdf file:
-
+
 docx converted to pdf) at odtuclass IE 300 –
 turnitin assignment, for it to be checked for
 plagiarism (intihal) (similarity must be < 20%).
 For the questionnaire: you will be using METU
-
+
 Survey upon the information you will get from the
 SP Committee at the beginning of the semester.
 Steps to follow in IE 300:
@@ -376,7 +343,7 @@ Steps to follow in IE 300:
 6. Submit your report
 (cont’d)
 If you receive a payment during your SP, you need
-
+
 to fill out the "Paid SP questionnaire" under the
 IE300 course at OCW. Download, print, and sign
 the Paid Summer Practice Form on the SP website
@@ -385,46 +352,27 @@ of the signed form (in pdf format) under the
 assignment "İşsizlik Fonu Katkısı Bilgi Formu (Paid
 SP Form)" at OCW.
 Upload the bank receipt (in pdf format) showing
-
-that you received payment from the company under
-the assignment at OCW "Stajda ücret ödendiğine
-dair banka dekontu (Bank receipt for paid SPs)".
+
+that you received payment from the company under the assignment at OCW "Stajda ücret ödendiğine dair banka dekontu (Bank receipt for paid SPs)".
 Voluntary SP
-23
-It is possible to do a voluntary internship for additional
-
-work experience
-The university takes care of your insurance for voluntary
-
-SP if you have completed your second year.
-For voluntary summer practices, insurance is made for a
-
-period of one month at most for only one organization.
+
+It is possible to do a voluntary internship for additional work experience
+The university takes care of your insurance for voluntary SP if you have completed your second year.
+For voluntary summer practices, insurance is made for a period of one month at most for only one organization.
 Follow the same procedure to apply for the insurance.
-
+
 Candidate Engineering Programs
-24
-Candidate engineering activities during the
-
-semesters do not count for IE300 since SP
-cannot overlap with the teaching period.
-If you continue candidate engineering during
-
-summer and you work for 20 full workdays in a
-row, then you can present it for IE300.
-your questions and comments to:
-25
+
+Candidate engineering activities during the semesters do not count for IE300 since SP
+cannot overlap with the teaching period. If you continue candidate engineering during summer and you work for 20 full workdays in a
+row, then you can present it for IE300. your questions and comments to:
 ie-staj@metu.edu.tr
-
+
 First check the SP web page
-
+
 (https://sp-ie.metu.edu.tr/en)
-SP presentation can be reached on the SP
-
-web page.
-Be aware that ie-staj@metu.edu.tr is NOT a
-
-call center. Please check the SP presentation
+SP presentation can be reached on the SP web page.
+Be aware that ie-staj@metu.edu.tr is NOT a call center. Please check the SP presentation
 and the web page before e-mailing.
 
 
@@ -462,7 +410,7 @@ EVALUATION OF THE REPORTS ......................................................
 8. ANALYSIS OF A DECISION MAKING PROBLEM ......................................... 13
 9. CONCLUSION ....................................................................................................... 13
 BIBLIOGRAPHY .......................................................................................................... 14
-2
+
 INSTRUCTIONS ON THE FORMAT AND STYLE OF THE
 REPORT
 The report must be written in English, and printed in ink or typed.
@@ -493,7 +441,7 @@ and answer the question so that it is relevant to the practice organization.
 It is advisable to add a glossary to the end of the report for technical terms used.
 Summer practice reports are due within the first two weeks of
 the following academic term.
-3
+
 EVALUATION OF THE REPORTS
 The grading of the reports will be as follows: There is a total of 200 points
 obtainable from the questions section. You should collect at least 50% of the
@@ -520,7 +468,7 @@ webes-miteai l wat wthwe b.ieeg.minneintug. oefd tuhe.t rs/e~mspes. teTr.h Oet h
 practice report will be considered as incomplete.
 filled out until the submission date of your summer practice
 report. Otherwise your report will be considered as incomplete.
-4
+
 1. INTRODUCTORY FEATURES
 1.1 What is the full title of the firm? When was it founded and where is it
 located? (Give the full address).
@@ -552,7 +500,7 @@ environment consisting of land, buildings, warehouses, roads, shops, garages, do
 storages, etc. These are part of the facilities of the organization. In some cases not all
 facilities of a firm are located on the same property and they may be far away from
 each other, even in different cities.
-5
+
 Identify the major facilities of the manufacturing firm you observed during
 your summer practice on a rough (free hand) sketch. Show a few items that
 flow among them (e.g., painted parts, sheet metal, vehicles to repair, spare
@@ -581,7 +529,6 @@ mergers, diversification, capital expenditures, etc.).
 b) Tactical level - implementation of plans (e.g. allocation of resources to different
 products, formulation of budgets, funds flow analysis, plant layout decisions,
 personnel problems).
-6
 c) Operational level, day-to-day routine operations (e.g. receiving and shipping
 operations, scheduling, inventory control, quality control and allocating workers
 to jobs).
@@ -613,7 +560,7 @@ being indicated.
 4.2 Manufacturing processes can be categorized as follows:
 Those processes that are characterized by continuous flow as in steel making, sugar
 refining and chemical processing are called continuous processes.
-7
+
 When items are produced in large lots following an unchanging sequence of
 operations, the process becomes a repetitive process. Standardized product types
 characterize it. Due to unchanging routing of parts, facilities can be arranged as a
@@ -734,12 +681,12 @@ enough to be considered quality tomorrow. Hence, quality can be defined as a
 dynamic state associated with products, services, processes, environments and
 people, that meets or exceeds expectations.
 The following is just a few other definitions proposed for “quality”:
- Quality is fitness for use.
- Quality is conformance to requirements.
- Quality is the total composite product and service characteristics of
+ Quality is fitness for use.
+ Quality is conformance to requirements.
+ Quality is the total composite product and service characteristics of
 marketing, engineering, manufacture and maintenance through which the
 product and service in use will meet the expectations of customers.
- Quality is the totality of features and characteristics of a product or
+ Quality is the totality of features and characteristics of a product or
 service that bear on its ability to satisfy stated or implied needs.
 Hence, a high quality product or service should well meet expectations of all
 involved customers or stakeholders.
@@ -785,11 +732,11 @@ guidance and proposals of the authorities in the firm may also help in the ident
 making problem.
 Identify a decision making problem in your organization.
 Formulate the defined problem pointing the following issues.
- who is the decision maker (owner of the problem)?
- what is the goal or the objective (direction of and satisfactory amount of
+ who is the decision maker (owner of the problem)?
+ what is the goal or the objective (direction of and satisfactory amount of
 improvement) of the decision maker?
- what are the alternative courses of action (to achieve the objectives)?
- what are the limitations, restrictions and requirements of the system?
+ what are the alternative courses of action (to achieve the objectives)?
+ what are the limitations, restrictions and requirements of the system?
 9. CONCLUSION
 9.1 The following questions are prepared to obtain your own assessment of the summer
 practice. You can add as many ideas as you wish besides answering these questions.
@@ -857,136 +804,103 @@ Buğra Öztürk
 Mehmet Sencer Zengin
 ¨
 Contact Info
-3
+
 Web page: http://sp-ie.metu.edu.tr
 ¨
 Contact address: ie-staj@metu.edu.tr
 ¨
 (includes all committee members)
-¤
+
 Prerequisites for IE 400
-4
-IE 300 +
-¨
-IE 252, IE 323, IE 333 +
-¨
+
+IE 300 + IE 252, IE 323, IE 333 +
+
 Any two courses from the set:
-¨
+
 {IE 304, IE 324, IE 372, IE 368}.
-If any one of the prerequisite courses is
-¨
-not completed with a grade ≥ DD,
-IE400 cannot be conducted.
+If any one of the prerequisite courses is not completed with a grade ≥ DD, IE400 cannot be conducted.
 IE 400 – when to conduct
-5
-You will conduct IE 400 summer practice in Summer 2025
-¨
+
+You will conduct IE 400 summer practice in Summer 
 Available time interval (~3 months):
-¤
-[June 25 – September 26]
-n
-If you attend the summer school for some courses, your
-¨
-summer practice period should not overlap with the summer
-school.
-Minimum practice is 20 workdays (4 weeks).
-¨
-This duration can be more if the company request it.
-You can conduct IE 400 during semester break in winter as
-¨
-well, if 20 workdays are available in the break.
-If you are in graduation status and have completed all your
-¨
-course work and then you can conduct both IE 300 and IE 400
-in succession in Summer 2025.
+
+If you attend the summer school for some courses, your summer practice period should not overlap with the summer school.
+Minimum practice is 20 workdays (4 weeks). This duration can be more if the company request it.
+You can conduct IE 400 during semester break in winter as well, if 20 workdays are available in the break.
+If you are in graduation status and have completed all your course work and then you can conduct both IE 300 and IE 400
+in succession in Summer.
 Registration for IE 400
-6
-After the summer practice is completed,
-¨
-you must register for IE 400 in the
-immediate following academic term.
-Summer practice reports are due within
-¨
-the first 4 weeks of the registered
-academic term.
-¨
-Steps to follow in IE 400:
-7
-no
-1. Search for
-alternative companies
-3. Apply to the Accepted
-company ?
-4. Apply yes
-for insurance
-2. Evaluate the
-company
-2. Get approval of the
-5. Conduct your 6. Submit your report
-SP committee if you
-summer practice to the SP Committee
-want to conduct a
+
+After the summer practice is completed, you must register for IE 400 in the
+immediate following academic term. Summer practice reports are due within the first 4 weeks of the registered
+academic term. Steps to follow in IE 400 (flowchart):
+
+1. Search for alternative companies
+2. Evaluate the company
+3. Apply to the company 
+Accepted?
+4. Apply for the insurance
+5. Conduct your summer practice
+6. Submit your report to the SP Committee
+
 Project based SP
 Steps to follow in IE 400:
-8
+
 1. Search for alternative companies (start as soon as possible)
 Manufacturing firms:
-¨
+
 Automotive
-¤
+
 Machine parts
-¤
+
 Electronics
-¤
+
 Furniture
-¤
+
 Textiles
-¤
+
 Consumer durables (refrigerator, washing machine,..)
-¤
-…
-¤
+
 Batch process industries are also accepted:
-¤
+
 Steel
-n
+
 Paper mills
-n
+
 Pharmaceutical
-n
+
 Food and beverages
-n
-….
-n
+
+
 Steps to follow in IE 400:
-9
+
 1. Search for alternative companies (cont’d)
 Continuous process industries
-¤
-n Cement, concrete
-n Sugar
-n Flour mill
-n …
+
+ Cement, concrete
+ Sugar
+ Flour mill
+ …
 Service industries
 ¨
 Hospitals
-¤
+
 Hotels
-¤
+
 Banking
-¤
+
 Research organizations (ODTÜ Teknokent,..)
-¤
+
 Transportation, cargo carriers
-¤
+
 Public institutions
-¤
+
 Non-governmental organizations (NGOs)
-¤
+
 …
-¤
+
 Steps to follow in IE 400:
-10
+
 1. Search for alternative companies (cont’d)
 The department will also list some of the firms that
 ¨
@@ -997,48 +911,40 @@ from the SP web site à SP Opportunities.
 For these SP opportunities:
 ¨
 We will announce as we get them from the companies.
-¤
+
 We follow either of the ways (based on the conditions
 of the company):
 Either we assign you or
-n
 You contact these firms by yourself and make the
-n
 arrangement by yourself.
 Steps to follow in IE 400:
-11
 1. Search for alternative companies
 (cont’d)
 This summer practice term is to be conducted as
-¨
+
 follows:
 à manufacturing company: your summer practice is
-¤
+
 to be totally in the company (plant) "face-to-face"
-à service company: your summer practice can be
-¤
-either "face-to-face" or "hybrid" type (face-to-face +
-online).
+à service company: your summer practice can be either "face-to-face" or "hybrid" type (face-to-face + online).
 Steps to follow in IE 400:
-12
+
 2. Evaluate the company
 Check the IE 400 Manual from
-¨
 https://sp-ie.metu.edu.tr >Documents /Forms tab
 Check whether you can answer the questions without
-¤
 much difficulty.
 Also check the company under consideration in
 ¨
 terms of:
 Number of employees? How many engineers, IE’s?
-¤
+
 Production capacity?
-¤
+
 Information system? ERP or..?
-¤
+
 Steps to follow in IE 400:
-13
+
 2. Evaluate the company (cont’d)
 We do not examine and confirm the suitability of your
 ¨
@@ -1048,26 +954,23 @@ Students determine whether their SP company is
 appropriate. (Questions in SP Manuel provides a good
 guidance for the appropriateness.)
 Discuss with the SP Committee if you are not sure or do
-¨
 not feel comfortable about the appropriateness of the
 candidate company for IE 400.
 Steps to follow in IE 400:
-14
+
 3. Apply to the company
-Some companies request a document (letter) explaining
-¨
-the aim of the SP, minimum duration of the SP and
+Some companies request a document (letter) explaining the aim of the SP, minimum duration of the SP and
 stating that the insurance for the SP will be paid by
 METU. You can find the SP Application Form on the SP
 website.
 Login with your id and password at
-¤
+
 http://sp-ie.metu.edu.tr
 Download the form "SP Application Form (Staj Başvuru
-¤
+
 Belgesi)" under Documents/Forms tab.
 You can apply to more than one company; notice that, for
-¤
+
 each company you want to apply, you should fill out this
 form.
 Steps to follow in IE 400:
@@ -1076,13 +979,12 @@ Steps to follow in IE 400:
 Some companies may also request an SP Protocol
 ¨
 (sözleşme) form. If you need one, please visit the SP
-website àDocuments/Forms tab. You can find a
-sample protocol.
+website àDocuments/Forms tab. You can find a sample protocol.
 After you fill out the protocol form, you need to leave the
-¤
+
 form to Undergraduate Secretary Office, IE 128.
 You can pick up the signed form in a week.
-¤
+
 You deliver the signed form "SP Application Form
 ¨
 (Staj Başvuru Belgesi)” to the company, and other
@@ -1117,19 +1019,19 @@ The compulsory insurance : iş kazası ve meslek
 ¨
 hastalığı sigortası (due to the following law):
 Law # 5510: Sosyal Sigortalar ve Genel Sağlık Sigortası
-¤
+
 Kanunu
 METU provides insurance for all SP students upon
 ¨
 application.
 For compulsory summer practices, insurance is made for a
-¤
+
 period of [20 workdays - 3 months].
 For voluntary summer practices, insurance is made for a
-¤
+
 period of one month at most for only one organization.
 Insurance is made for the summer practices abroad as well.
-¤
+
 The company can also insure you for the summer
 ¨
 practice term, then you are not insured by the
@@ -1140,26 +1042,26 @@ Steps to follow in IE 400:
 Individual:
 ¨
 At least 20 workdays
-¤
+
 Group of two students:
 ¨
 At least 20 workdays
-¤
+
 Each writes his/her own report
-¤
+
 Project/problem should be much more involved
-¤
+
 Notify the SP committee in the first week of practice
-¤
+
 Project-based:
 ¨
 At least 6 weeks
-¤
+
 Two-page proposal should be approved by the SP
-¤
+
 Committee before SP starts.
 Content and Format is different (see the manual)
-¤
+
 Steps to follow in IE 400:
 19
 5. Conduct your summer practice
@@ -1213,23 +1115,23 @@ Steps to follow in IE 400:
 The report is written based on the IE 400 manuals.
 ¨
 IE 400 manuals are of two types: (i)manufacturing manual and
-¤
+
 (ii)service manual.
 In some questions (e.g. accounting, finance), you should provide
-¤
+
 information about the method used at least, if you are not
 provided with sufficient data.
 For each question, you should provide sufficient explanation and
-¤
+
 analysis; giving a figure/table only is not accepted.
 Before answering a question, you should read the
-¤
+
 explanation in the question, and answer accordingly based
 on the explanation (e.g. Types of layout).
 You can start writing your report during the practice.
-¤
+
 You can use "google grammarly" to correct the report before
-¤
+
 you submit it.
 Steps to follow in IE 400:
 23
@@ -1256,18 +1158,18 @@ If you receive a payment during your SP, you need
 ¨
 to
 Fill out the "Paid SP questionnaire" under the IE400
-¤
+
 course at OCW.
 Download, print, and sign the Paid SP Form (İşsizlik
-¤
+
 Fonu Katkısı Bilgi Formu) on the SP website
 (Documents/Forms tab).
 Fill out and scan the copy of the signed form (in pdf
-¤
+
 format) under the assignment " (Paid SP Form)" at
 OCW.
 Upload Paid SP Form with the bank receipt (in pdf
-¤
+
 format) showing that you received payment from the
 company under the assignment at OCW “İşsizlik Fonu
 Katkısı Bilgi Formu” as a Zip file.
@@ -1408,12 +1310,12 @@ considered as incomplete.
 PROBLEM / PARTICIPATED PROJECT SECTION
 The content of the problem/participated project section will be evaluated on the
 basis of the following:
-•
+
 Problem/Project context (relevance to industrial engineering and
 significance for the practice organization)
-•
+
 Technical content of the work reported on
-•
+
 Style and organization of the section (language, presentation order, clarity)
 PROJECT-TYPE SUMMER PRACTICE REPORT
 If the student performs the summer practice for at least 6 weeks and takes part in
@@ -1716,13 +1618,13 @@ Planning and control consists of interrelated and interacting subsystems. They n
 to operate and behave in harmony so that the overall planning and control system is
 more than just the total of their outcomes. Some of the subsystems that can be found
 in most planning and control systems are:
-•
+
 forecasting
-•
+
 aggregate planning
-•
+
 inventory planning and control
-•
+
 detailed scheduling
 4.1 Forecasting is a basic element of management decision making. Indeed, virtually
 every significant management decision is predicated on some forecast of the future.
@@ -2053,36 +1955,36 @@ collected on utilization rates). This analysis can be supported by some of the
 questions in this document. The guidance and proposals of the authorities in the
 firm may also help in the identification of an industrial engineering problem. In
 studying the problem situation you may use the following analysis tools:
-•
+
 cause-effect diagrams (fish bone diagrams)
-•
+
 pareto analysis
-•
+
 relations diagram
-•
+
 logic tree analyses
-•
+
 flowcharts
-•
+
 check sheets
 25
-•
+
 rich pictures
-•
+
 brainstorming
-•
+
 run charts
-•
+
 influence diagrams
-•
+
 multivoting
-•
+
 nominal group technique
-•
+
 stratification
-•
+
 affinity diagrams
-•
+
 precedence diagrams
 2. Formulation of the Problem
 At the end of the first step, you should have identified the virtues or benefits,
@@ -2090,17 +1992,17 @@ pitfalls, shortcomings or disadvantages of existing practices pinpointing functi
 that are partially or completely lacking. Such an evaluation forms the basis for the
 redesign and improvement of the existing system.
 A clear formulation of a problem starts with:
-•
+
 an exact description of the decision maker (owner of the problem),
-•
+
 the goal or the objective (direction of and satisfactory amount of improvement)
 of the decision maker,
-•
+
 performance criteria (to be used in evaluating goodness of a solution in
 achieving the objective),
-•
+
 an identification of alternative courses of action (to achieve the objectives), and
-•
+
 a clear recognition of the limitations, restrictions and requirements of the
 system. An analysis of the interactions of the problem with various subsystems
 in the firm can also be carried out during this phase.
@@ -2118,47 +2020,47 @@ of interest with regard to industrial engineering and that a well identified pro
 had initiated the project work.
 If the project you participated in is completed, you are required to submit a report
 consisting of at least the following sections:
-•
+
 Introduction (Products/Services/Manufacturing/Service Provision processes
 addressed in the project, context of the problem, composition of the project
 team)
-•
+
 Problem statement (Description of what issue was tried to be
 solved/improved/implemented, its relevance as an IE problem)
-•
+
 Approach Taken (what stages were initially planned for the project, why and
 how were they modified during the work on the project, your role specific
 within the approach)
-•
+
 Summary of Work Done (a sample list of data gathered or facts collected and
 analyzed, methods used in these, typical results of calculations/experiments/
 estimations etc.)
-•
+
 Conclusions and Recommendations (Outcomes of the project, Suggestions
 made, initiated actions, extensions of the results, your evaluation of the
 outcomes)
 If the project you participated in was still in progress at the end of your practice
 period, you are required to submit a report consisting of at least the following
 sections:
-•
+
 Introduction (Products/Services/Manufacturing/Service Provision processes
 addressed in the project, context of the problem, composition of the project
 team)
 27
-•
+
 Problem statement (Description of what issue was tried to be
 solved/improved/implemented, its relevance as an IE problem)
-•
+
 Approach Taken (what stages were initially planned for the project, your
 specific role within the approach)
-•
+
 Project Schedule (a project activity network or a Gantt chart)
-•
+
 Work Done To Date (a sample list of data gathered or facts collected and
 analyzed until the time you quit the organization, methods used in these,
 typical results of calculations/experiments/ estimations etc. done that far in
 time)
-•
+
 Expectations of the Outcomes (Prospective benefits, your evaluation of the
 outcomes)
 28
@@ -2287,10 +2189,10 @@ considered as incomplete.
 PROBLEM / PARTICIPATED PROJECT SECTION
 The content of the problem/participated project section will be evaluated on the
 basis of the following:
- Problem/Project context (relevance to industrial engineering and
+ Problem/Project context (relevance to industrial engineering and
 significance for the practice organization)
- Technical content of the work reported on
- Style and organization of the section (language, presentation order, clarity)
+ Technical content of the work reported on
+ Style and organization of the section (language, presentation order, clarity)
 PROJECT-TYPE SUMMER PRACTICE REPORT
 For the students who will submit a project-type summer practice report, the 100
 points will be accorded as follows:
@@ -2421,9 +2323,9 @@ usually tangible, and the transformations are often physical. On the other hand,
 service-oriented production systems may have intangible inputs/outputs, such as
 information, and transformations that may not be physical.
 Provide a process (operations) chart of a major
- product/subassembly or
- routing for a group of products or
- service process.
+ product/subassembly or
+ routing for a group of products or
+ service process.
 3.2 Capacity is the maximum output of a system in a given period. Capacity is normally
 expressed as a rate, such as the number of tons of steel that can be produced per week,
 per month, or per year. For many companies, measuring capacity can be
@@ -2569,10 +2471,10 @@ Production planning and control consists of interrelated and interacting subsyst
 They need to operate and behave in harmony so that the overall planning and control
 system is more than just the total of their outcomes (synergy). Some of the
 subsystems that can be found in most production planning and control systems are:
- forecasting and demand management
- aggregate production planning
- inventory planning and control
- detailed scheduling
+ forecasting and demand management
+ aggregate production planning
+ inventory planning and control
+ detailed scheduling
 Forecasting is a basic element of management decision making. Indeed, virtually
 every significant management decision is predicated on some forecast of the future.
 At the corporate level, forecasting forms the essence of long range planning. Within
@@ -2666,12 +2568,12 @@ enough to be considered quality tomorrow. Hence, quality can be defined as a
 dynamic state associated with products, services, processes, environments and
 people, that meets or exceeds expectations.
 The following is just a few other definitions proposed for “quality”:
- Quality is fitness for use.
- Quality is conformance to requirements.
- Quality is the total composite product and service characteristics of
+ Quality is fitness for use.
+ Quality is conformance to requirements.
+ Quality is the total composite product and service characteristics of
 marketing, engineering, manufacture and maintenance through which the
 product and service in use will meet the expectations of customers.
- Quality is the totality of features and characteristics of a product or service
+ Quality is the totality of features and characteristics of a product or service
 that bear on its ability to satisfy stated or implied needs.
 Hence, a high quality product or service should well meet expectations of all
 involved customers or stakeholders.
@@ -2855,35 +2757,35 @@ collected on utilization rates). This analysis can be supported by some of the
 questions in this document. The guidance and proposals of the authorities in the
 firm may also help in the identification of an industrial engineering problem. In
 studying the problem situation you may use the following analysis tools:
- cause-effect diagrams (fish bone diagrams)
- pareto analysis
- relations diagram
- logic tree analyses
- flowcharts
- check sheets
- rich pictures
- brainstorming
- run charts
- influence diagrams
+ cause-effect diagrams (fish bone diagrams)
+ pareto analysis
+ relations diagram
+ logic tree analyses
+ flowcharts
+ check sheets
+ rich pictures
+ brainstorming
+ run charts
+ influence diagrams
 23
- multivoting
- nominal group technique
- stratification
- affinity diagrams
- precedence diagrams
+ multivoting
+ nominal group technique
+ stratification
+ affinity diagrams
+ precedence diagrams
 2. Formulation of the Problem
 At the end of the first step, you should have identified the virtues or benefits,
 pitfalls, shortcomings or disadvantages of existing practices pinpointing functions
 that are partially or completely lacking. Such an evaluation forms the basis for the
 redesign and improvement of the existing system.
 A clear formulation of a problem starts with:
- an exact description of the decision maker (owner of the problem),
- the goal or the objective (direction of and satisfactory amount of improvement)
+ an exact description of the decision maker (owner of the problem),
+ the goal or the objective (direction of and satisfactory amount of improvement)
 of the decision maker,
- performance criteria (to be used in evaluating goodness of a solution in
+ performance criteria (to be used in evaluating goodness of a solution in
 achieving the objective),
- an identification of alternative courses of action (to achieve the objectives), and
- a clear recognition of the limitations, restrictions and requirements of the
+ an identification of alternative courses of action (to achieve the objectives), and
+ a clear recognition of the limitations, restrictions and requirements of the
 system. An analysis of the interactions of the problem with various subsystems
 in the firm can also be carried out during this phase.
 You are encouraged in this formulation stage to think and comment about specific
@@ -2900,37 +2802,37 @@ of interest with regard to industrial engineering and that a well identified pro
 had initiated the project work.
 If the project you participated in is completed, you are required to submit a report
 consisting of at least the following sections:
- Introduction (Products/Services/Manufacturing/Service Provision processes
+ Introduction (Products/Services/Manufacturing/Service Provision processes
 addressed in the project, context of the problem, composition of the project
 team)
- Problem statement (Description of what issue was tried to be
+ Problem statement (Description of what issue was tried to be
 solved/improved/implemented, its relevance as an IE problem)
- Approach Taken (what stages were initially planned for the project, why and
+ Approach Taken (what stages were initially planned for the project, why and
 how were they modified during the work on the project, your role specific
 within the approach)
- Summary of Work Done (a sample list of data gathered or facts collected and
+ Summary of Work Done (a sample list of data gathered or facts collected and
 analyzed, methods used in these, typical results of calculations/experiments/
 estimations etc.)
- Conclusions and Recommendations (Outcomes of the project, Suggestions
+ Conclusions and Recommendations (Outcomes of the project, Suggestions
 made, initiated actions, extensions of the results, your evaluation of the
 outcomes)
 If the project you participated in was still in progress at the end of your practice
 period, you are required to submit a report consisting of at least the following
 sections:
- Introduction (Products/Services/Manufacturing/Service Provision processes
+ Introduction (Products/Services/Manufacturing/Service Provision processes
 addressed in the project, context of the problem, composition of the project
 team)
 25
- Problem statement (Description of what issue was tried to be
+ Problem statement (Description of what issue was tried to be
 solved/improved/implemented, its relevance as an IE problem)
- Approach Taken (what stages were initially planned for the project, your
+ Approach Taken (what stages were initially planned for the project, your
 specific role within the approach)
- Project Schedule (a project activity network or a Gantt chart)
- Work Done To Date (a sample list of data gathered or facts collected and
+ Project Schedule (a project activity network or a Gantt chart)
+ Work Done To Date (a sample list of data gathered or facts collected and
 analyzed until the time you quit the organization, methods used in these,
 typical results of calculations/experiments/ estimations etc. done that far in
 time)
- Expectations of the Outcomes (Prospective benefits, your evaluation of the
+ Expectations of the Outcomes (Prospective benefits, your evaluation of the
 outcomes)
 26
 BIBLIOGRAPHY
@@ -3046,9 +2948,9 @@ If you did your SP in a private company in Turkey and you received payment durin
 
 4. Upload the bank receipt (in pdf format) showing that you received payment from the company under the assignment "Stajda ücret ödendiğine dair banka dekontu (Bank receipt for paid SPs)".
 
-Steps to Follow
+4. Steps to Follow 
  
-Before Summer Practice
+4.1 Before Summer Practice
 
 Examine the Summer Practice Website as early as you can, as much as you can.
 Read the Summer Practice Manual which can be reached from our SP website under the “Documents/Forms” tab. It will be helpful to decide whether the company will satisfy the requirements that you may answer the questions listed in the manual if you complete your internship in the company.
@@ -3166,6 +3068,22 @@ These students need to submit a two-page project proposal. The proposal should i
 
 Recent SP Opportunities
 https://sp-ie.metu.edu.tr/en/sp-opportunities
+
+
+Additional Questions (Not Covered in the Data)
+
+Can I conduct my IE300 and IE400 internships at the same organization in different departments?
+No, it is not possible to conduct the two required internships at the same organization. 
+
+Can I conduct my internship abroad?
+Yes you can conduct your IE300 and/or IE400 internship abroad.
+
+Are remote internships valid?
+For IE300, the internship must be conducted physically. For IE400, it can be conducted either physical or remote; however, fully remote internships are not valid for internships.
+
+Can I do my IE400 internship during the summer after I graduate, and then take the course during the summer school?
+Yes, you can complete your IE400 internship after graduation and take the course during summer school.
+
 
 
 
