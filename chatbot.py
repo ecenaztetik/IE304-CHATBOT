@@ -3,6 +3,45 @@ import google.generativeai as genai
 
 
 st.set_page_config(page_title="METU-IE SP Bot", page_icon="🎓")
+st.markdown("""
+<style>
+    .stApp {
+        background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #ffecd2, #a1c4fd, #c2e9fb, #d4fc79);
+        background-size: 400% 400%;
+        animation: gradient 15s ease infinite;
+    }
+    @keyframes gradient {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+    .stApp, .stMarkdown, p, li, span, h1, h2, h3, h4, h5, h6, label { color: #000000 !important; }
+    [data-testid="stChatMessage"] {
+        background-color: rgba(255, 255, 255, 0.8) !important;
+        border-radius: 20px !important;
+        border: 2px solid #ffdae0 !important;
+    }
+    [data-testid="stChatMessageContent"] * { color: #000000 !important; }
+    [data-testid="stSidebar"] {
+        background-color: rgba(255, 255, 255, 0.5) !important;
+        backdrop-filter: blur(15px);
+    }
+    [data-testid="stSidebar"] * { color: #000000 !important; }
+    .stChatInputContainer textarea {
+        color: #000000 !important;
+        background-color: rgba(255, 255, 255, 0.6) !important;
+    }
+    .stButton>button {
+        border-radius: 30px !important;
+        background: linear-gradient(to right, #ff9a9e 0%, #fecfef 100%) !important;
+        color: #000000 !important;
+        border: 1px solid #ffb6c1 !important;
+        font-weight: bold;
+    }
+    h1 { color: #d63384 !important; font-weight: 800 !important; }
+    a { color: #0000EE !important; text-decoration: underline !important; }
+</style>
+""", unsafe_allow_html=True)
 
 try:
     API_KEY = st.secrets["GOOGLE_API_KEY"]
