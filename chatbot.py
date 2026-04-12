@@ -118,7 +118,7 @@ st.markdown("""
 # --- BOTTOM BAR ---
 st.markdown("""
 <div class="bottombar">
-Built with ❤️ using Streamlit + Google Gemini
+Built by Group 5 ❤️ 
 </div>
 """, unsafe_allow_html=True)
 
