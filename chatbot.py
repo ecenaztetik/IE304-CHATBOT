@@ -64,24 +64,6 @@ st.markdown("""
         text-decoration: underline !important; 
     }
 
-    /* 🔝 TOP BAR */
-    .topbar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 55px;
-        background: rgba(255, 255, 255, 0.6);
-        backdrop-filter: blur(12px);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-weight: bold;
-        font-size: 18px;
-        z-index: 9999;
-        border-bottom: 2px solid #ffdae0;
-    }
-
     /* 🔽 BOTTOM BAR */
     .bottombar {
         position: fixed;
@@ -107,13 +89,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-
-# --- TOP BAR ---
-st.markdown("""
-<div class="topbar">
-🌈 METU IE SP Assistant | Gemini Powered
-</div>
-""", unsafe_allow_html=True)
 
 # --- BOTTOM BAR ---
 st.markdown("""
