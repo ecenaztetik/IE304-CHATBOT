@@ -64,5 +64,8 @@ if prompt := st.chat_input("Ask about IE 300/400 requirements..."):
             st.markdown(response.text)
             st.session_state.messages.append({"role": "assistant", "content": response.text})
 
-        except Exception as e:
-            st.error(f"Model Selection Error: {e}")
+                except Exception as e:
+            if "quota" in str(e).lower() or "limit" in str(e).lower():
+                st.error("You have reached the API quota limit. Please try again later.")
+            else:
+                st.error(f"Model Selection Error: {e}")
